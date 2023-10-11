@@ -1,0 +1,2 @@
+# Raw Content file types.
+*.zip filter=lfs diff=lfs merge=lfs -text
