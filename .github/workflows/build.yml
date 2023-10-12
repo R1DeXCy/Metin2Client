@@ -1,0 +1,28 @@
+name: Build and Deploy
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v2
+
+      - name: Create ZIP Release
+        run: |
+          # Navigate to the project directory
+          cd ./Metin2Client
+
+          # Create a ZIP release of your project
+          zip -r ../Client.zip .
+
+      - name: Upload ZIP Release
+        uses: actions/upload-artifact@v2
+        with:
+          name: Client
+          path: Client.zip
