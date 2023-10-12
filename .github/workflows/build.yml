@@ -17,7 +17,7 @@ jobs:
         run: |
           # Commands to create a ZIP file of your project
           # e.g., zip -r Client.zip ./*
-          cd Client # Change to the project directory
+          # cd Client # Change to the project directory
           zip -r Client.zip ./*
         working-directory: ./Client
 
