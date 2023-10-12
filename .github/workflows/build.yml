@@ -16,7 +16,7 @@ jobs:
       - name: Create ZIP Release
         run: |
           # Navigate to the project directory
-          cd ./Metin2Client
+          cd ./Client
 
           # Create a ZIP release of your project
           zip -r ../Client.zip .
