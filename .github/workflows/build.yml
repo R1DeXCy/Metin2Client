@@ -36,4 +36,4 @@ jobs:
           asset_name: Client.zip
           asset_content_type: application/zip
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.METIN2_CLIENT_RELEASE }}
