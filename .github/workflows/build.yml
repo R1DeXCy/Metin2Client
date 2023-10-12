@@ -30,7 +30,7 @@ jobs:
           name: Client Release
           body: Client Release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Use the GITHUB_TOKEN secret
+          GITHUB_TOKEN: ${{ secrets.METIN2_CLIENT_RELEASE }} # Use the METIN2_CLIENT_RELEASE secret
 
       - name: Upload Release Asset
         id: upload-release-asset
@@ -41,4 +41,4 @@ jobs:
           asset_name: Client.zip
           asset_content_type: application/zip
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Use the GITHUB_TOKEN secret
+          GITHUB_TOKEN: ${{ secrets.METIN2_CLIENT_RELEASE }} # Use the METIN2_CLIENT_RELEASE secret
