@@ -25,7 +25,7 @@ jobs:
         with:
           files: ./Client/Client.zip  # Path to your ZIP file
           tag_name: latest
-          title: Client Release
+          name: Client Release
           body: Client Release
         env:
           GITHUB_TOKEN: ${{ secrets.METIN2_CLIENT_RELEASE }}
