@@ -21,17 +21,20 @@ jobs:
           zip -r Client.zip ./*
         working-directory: ./Client
 
-      - name: Get Current Date and Time
-        id: date
-        run: echo "::set-output name=current_datetime::$(date +'%Y-%m-%d_%H-%M-%S')"
+      - name: Read Version from version.txt
+        id: read_version
+        run: |
+          VERSION=$(cat version.txt)
+          echo "::set-output name=version::$VERSION"
+        working-directory: ./Client
 
       - name: Create GitHub Release
         id: create_release
         uses: softprops/action-gh-release@v1
         with:
           files: ./Client/Client.zip  # Path to your ZIP file
-          tag_name: ${{ steps.date.outputs.current_datetime }}  # Use a unique tag based on the current date and time
-          name: Release ${{ steps.date.outputs.current_datetime }}  # Unique release name
+          tag_name: latest  # Use the version from version.txt as the tag
+          name: Release ${{ steps.read_version.outputs.version }}  # Use the version as the release name
           body: Client Release
         env:
           GITHUB_TOKEN: ${{ secrets.METIN2_CLIENT_RELEASE }} # Use the METIN2_CLIENT_RELEASE secret
