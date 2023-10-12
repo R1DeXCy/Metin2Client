@@ -17,6 +17,8 @@ jobs:
         run: |
           # Commands to create a ZIP file of your project
           # e.g., zip -r Client.zip ./*
+          cd Client # Change to the project directory
+          zip -r Client.zip ./*
         working-directory: ./Client
 
       - name: Create GitHub Release
@@ -28,7 +30,7 @@ jobs:
           name: Client Release
           body: Client Release
         env:
-          GITHUB_TOKEN: ${{ secrets.METIN2_CLIENT_RELEASE }}
+          GITHUB_TOKEN: ${{ secrets.METIN2_CLIENT_RELEASE }} # Use the GITHUB_TOKEN secret
 
       - name: Upload Release Asset
         id: upload-release-asset
@@ -39,4 +41,4 @@ jobs:
           asset_name: Client.zip
           asset_content_type: application/zip
         env:
-          GITHUB_TOKEN: ${{ secrets.METIN2_CLIENT_RELEASE }}
+          GITHUB_TOKEN: ${{ secrets.METIN2_CLIENT_RELEASE }} # Use the GITHUB_TOKEN secret
