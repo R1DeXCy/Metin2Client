@@ -21,24 +21,17 @@ jobs:
           zip -r Client.zip ./*
         working-directory: ./Client
 
+      - name: Get Current Date and Time
+        id: date
+        run: echo "::set-output name=current_datetime::$(date +'%Y-%m-%d_%H-%M-%S')"
+
       - name: Create GitHub Release
         id: create_release
         uses: softprops/action-gh-release@v1
         with:
           files: ./Client/Client.zip  # Path to your ZIP file
-          tag_name: latest
-          name: Client Release
+          tag_name: ${{ steps.date.outputs.current_datetime }}  # Use a unique tag based on the current date and time
+          name: Release ${{ steps.date.outputs.current_datetime }}  # Unique release name
           body: Client Release
         env:
           GITHUB_TOKEN: ${{ secrets.METIN2_CLIENT_RELEASE }} # Use the METIN2_CLIENT_RELEASE secret
-
-      # - name: Upload Release Asset
-      #   id: upload-release-asset
-      #   uses: actions/upload-release-asset@v1
-      #   with:
-      #     upload_url: ${{ steps.create_release.outputs.upload_url }}
-      #     asset_path: ./Client/Client.zip  # Path to your ZIP file
-      #     asset_name: Client.zip
-      #     asset_content_type: application/zip
-      #   env:
-      #     GITHUB_TOKEN: ${{ secrets.METIN2_CLIENT_RELEASE }} # Use the METIN2_CLIENT_RELEASE secret
