@@ -1,0 +1,1460 @@
+1017 04:39:11674 :: 알림: 파일 모드입니다.
+1017 04:39:11676 :: The eterpack doesn't exist [pack/patch1_texcache]
+1017 04:39:11681 :: The eterpack doesn't exist [pack/season3_eu_texcache]
+1017 04:39:11685 :: The eterpack doesn't exist [pack/patch2_texcache]
+1017 04:39:11687 :: The eterpack doesn't exist [pack/metin2_patch_snow_texcache]
+1017 04:39:11689 :: The eterpack doesn't exist [pack/metin2_patch_snow_dungeon_texcache]
+1017 04:39:11692 :: The eterpack doesn't exist [pack/metin2_patch_etc_costume1_texcache]
+1017 04:39:11693 :: The eterpack doesn't exist [pack/metin2_patch_pet1_texcache]
+1017 04:39:11694 :: The eterpack doesn't exist [pack/metin2_patch_pet2_texcache]
+1017 04:39:11696 :: The eterpack doesn't exist [pack/metin2_patch_ramadan_costume_texcache]
+1017 04:39:11698 :: The eterpack doesn't exist [pack/metin2_patch_flame_texcache]
+1017 04:39:11700 :: The eterpack doesn't exist [pack/metin2_patch_flame_dungeon_texcache]
+1017 04:39:11701 :: The eterpack doesn't exist [pack/metin2_patch_w21_etc_texcache]
+1017 04:39:11702 :: The eterpack doesn't exist [pack/metin2_patch_w21_mobs_texcache]
+1017 04:39:11704 :: The eterpack doesn't exist [pack/metin2_patch_w21_mobs_m_texcache]
+1017 04:39:11705 :: The eterpack doesn't exist [pack/metin2_patch_dss_box_texcache]
+1017 04:39:11707 :: The eterpack doesn't exist [pack/metin2_patch_costume_soccer_texcache]
+1017 04:39:11707 :: The eterpack doesn't exist [pack/metin2_patch_easter1_texcache]
+1017 04:39:11709 :: The eterpack doesn't exist [pack/metin2_patch_mineral_texcache]
+1017 04:39:11712 :: The eterpack doesn't exist [pack/metin2_patch_w20_sound_texcache]
+1017 04:39:11713 :: The eterpack doesn't exist [pack/metin2_patch_ds_texcache]
+1017 04:39:11714 :: The eterpack doesn't exist [pack/metin2_patch_5th_armor_texcache]
+1017 04:39:11714 :: The eterpack doesn't exist [pack/metin2_patch_w20_etc_texcache]
+1017 04:39:11726 :: The eterpack doesn't exist [pack/metin2_patch_etc_texcache]
+1017 04:39:11729 :: The eterpack doesn't exist [pack/metin2_patch_xmas_texcache]
+1017 04:39:11734 :: The eterpack doesn't exist [pack/metin2_patch_eu3_texcache]
+1017 04:39:11735 :: The eterpack doesn't exist [pack/metin2_patch_eu4_texcache]
+1017 04:39:11737 :: The eterpack doesn't exist [pack/metin2_patch_mundi_texcache]
+1017 04:39:11739 :: The eterpack doesn't exist [pack/metin2_patch_sd_texcache]
+1017 04:39:11739 :: The eterpack doesn't exist [pack/metin2_patch_halloween_texcache]
+1017 04:39:11741 :: The eterpack doesn't exist [pack/metin2_patch_party_texcache]
+1017 04:39:11742 :: The eterpack doesn't exist [pack/metin2_patch_dance_texcache]
+1017 04:39:11751 :: The eterpack doesn't exist [pack/pc_texcache]
+1017 04:39:11755 :: The eterpack doesn't exist [pack/pc2_texcache]
+1017 04:39:11765 :: The eterpack doesn't exist [pack/monster_texcache]
+1017 04:39:11772 :: The eterpack doesn't exist [pack/monster2_texcache]
+1017 04:39:11776 :: The eterpack doesn't exist [pack/effect_texcache]
+1017 04:39:11784 :: The eterpack doesn't exist [pack/zone_texcache]
+1017 04:39:11786 :: The eterpack doesn't exist [pack/terrain_texcache]
+1017 04:39:11791 :: The eterpack doesn't exist [pack/npc_texcache]
+1017 04:39:11792 :: The eterpack doesn't exist [pack/npc2_texcache]
+1017 04:39:11794 :: The eterpack doesn't exist [pack/tree_texcache]
+1017 04:39:11796 :: The eterpack doesn't exist [pack/guild_texcache]
+1017 04:39:11800 :: The eterpack doesn't exist [pack/item_texcache]
+1017 04:39:11802 :: The eterpack doesn't exist [pack/textureset_texcache]
+1017 04:39:11813 :: The eterpack doesn't exist [pack/property_texcache]
+1017 04:39:11819 :: The eterpack doesn't exist [pack/icon_texcache]
+1017 04:39:11829 :: The eterpack doesn't exist [pack/season1_texcache]
+1017 04:39:11838 :: The eterpack doesn't exist [pack/season2_texcache]
+1017 04:39:11839 :: The eterpack doesn't exist [pack/outdoora1_texcache]
+1017 04:39:11841 :: The eterpack doesn't exist [pack/outdoora2_texcache]
+1017 04:39:11843 :: The eterpack doesn't exist [pack/outdoora3_texcache]
+1017 04:39:11845 :: The eterpack doesn't exist [pack/outdoorb1_texcache]
+1017 04:39:11847 :: The eterpack doesn't exist [pack/outdoorb3_texcache]
+1017 04:39:11850 :: The eterpack doesn't exist [pack/outdoorc1_texcache]
+1017 04:39:11852 :: The eterpack doesn't exist [pack/outdoorc3_texcache]
+1017 04:39:11855 :: The eterpack doesn't exist [pack/outdoorsnow1_texcache]
+1017 04:39:11857 :: The eterpack doesn't exist [pack/outdoordesert1_texcache]
+1017 04:39:11859 :: The eterpack doesn't exist [pack/outdoorflame1_texcache]
+1017 04:39:11860 :: The eterpack doesn't exist [pack/outdoorfielddungeon1_texcache]
+1017 04:39:11861 :: The eterpack doesn't exist [pack/outdoort1_texcache]
+1017 04:39:11863 :: The eterpack doesn't exist [pack/outdoort2_texcache]
+1017 04:39:11865 :: The eterpack doesn't exist [pack/outdoort3_texcache]
+1017 04:39:11866 :: The eterpack doesn't exist [pack/outdoort4_texcache]
+1017 04:39:11868 :: The eterpack doesn't exist [pack/outdoorwedding_texcache]
+1017 04:39:11870 :: The eterpack doesn't exist [pack/outdoormilgyo1_texcache]
+1017 04:39:11872 :: The eterpack doesn't exist [pack/indoorspiderdungeon1_texcache]
+1017 04:39:11873 :: The eterpack doesn't exist [pack/indoordeviltower1_texcache]
+1017 04:39:11874 :: The eterpack doesn't exist [pack/indoormonkeydungeon1_texcache]
+1017 04:39:11875 :: The eterpack doesn't exist [pack/indoormonkeydungeon2_texcache]
+1017 04:39:11877 :: The eterpack doesn't exist [pack/indoormonkeydungeon3_texcache]
+1017 04:39:11879 :: The eterpack doesn't exist [pack/outdoortrent02_texcache]
+1017 04:39:11880 :: The eterpack doesn't exist [pack/outdoorguild1_texcache]
+1017 04:39:11880 :: The eterpack doesn't exist [pack/outdoorguild2_texcache]
+1017 04:39:11882 :: The eterpack doesn't exist [pack/outdoorguild3_texcache]
+1017 04:39:11883 :: The eterpack doesn't exist [pack/outdoortrent_texcache]
+1017 04:39:11884 :: The eterpack doesn't exist [pack/outdoortrent02_texcache]
+1017 04:39:11885 :: The eterpack doesn't exist [pack/outdoorduel_texcache]
+1017 04:39:11887 :: The eterpack doesn't exist [pack/outdoorgmguildbuild_texcache]
+1017 04:39:11892 :: The eterpack doesn't exist [pack/sound_texcache]
+1017 04:39:11893 :: The eterpack doesn't exist [pack/sound_texcache]
+1017 04:39:11893 :: The eterpack doesn't exist [pack/sound_texcache]
+1017 04:39:11894 :: The eterpack doesn't exist [pack/sound_texcache]
+1017 04:39:11895 :: The eterpack doesn't exist [pack/sound_texcache]
+1017 04:39:11896 :: The eterpack doesn't exist [pack/sound_texcache]
+1017 04:39:11896 :: The eterpack doesn't exist [pack/sound_texcache]
+1017 04:39:11901 :: The eterpack doesn't exist [pack/sound_m_texcache]
+1017 04:39:11902 :: The eterpack doesn't exist [pack/sound_m_texcache]
+1017 04:39:11903 :: The eterpack doesn't exist [pack/sound_m_texcache]
+1017 04:39:11903 :: The eterpack doesn't exist [pack/sound_m_texcache]
+1017 04:39:11905 :: The eterpack doesn't exist [pack/sound_m_texcache]
+1017 04:39:11906 :: The eterpack doesn't exist [pack/sound_m_texcache]
+1017 04:39:11906 :: The eterpack doesn't exist [pack/sound_m_texcache]
+1017 04:39:11912 :: The eterpack doesn't exist [pack/sound2_texcache]
+1017 04:39:11913 :: The eterpack doesn't exist [pack/sound2_texcache]
+1017 04:39:11914 :: The eterpack doesn't exist [pack/bgm_texcache]
+1017 04:39:11918 :: The eterpack doesn't exist [pack/ETC_texcache]
+1017 04:39:11919 :: The eterpack doesn't exist [pack/ETC_texcache]
+1017 04:39:11920 :: The eterpack doesn't exist [pack/locale_ca]
+1017 04:39:11921 :: The eterpack doesn't exist [pack/locale_ca_texcache]
+1017 04:39:11922 :: The eterpack doesn't exist [pack/locale_ae]
+1017 04:39:11922 :: The eterpack doesn't exist [pack/locale_ae_texcache]
+1017 04:39:11923 :: The eterpack doesn't exist [pack/locale_de_texcache]
+1017 04:39:11925 :: The eterpack doesn't exist [pack/locale_es_texcache]
+1017 04:39:11927 :: The eterpack doesn't exist [pack/locale_fr_texcache]
+1017 04:39:11929 :: The eterpack doesn't exist [pack/locale_gr_texcache]
+1017 04:39:11931 :: The eterpack doesn't exist [pack/locale_it_texcache]
+1017 04:39:11933 :: The eterpack doesn't exist [pack/locale_nl_texcache]
+1017 04:39:11934 :: The eterpack doesn't exist [pack/locale_pl_texcache]
+1017 04:39:11936 :: The eterpack doesn't exist [pack/locale_pt_texcache]
+1017 04:39:11938 :: The eterpack doesn't exist [pack/locale_tr_texcache]
+1017 04:39:11938 :: The eterpack doesn't exist [pack/locale_uk]
+1017 04:39:11939 :: The eterpack doesn't exist [pack/locale_uk_texcache]
+1017 04:39:11940 :: The eterpack doesn't exist [pack/locale_bg]
+1017 04:39:11942 :: The eterpack doesn't exist [pack/locale_bg_texcache]
+1017 04:39:11943 :: The eterpack doesn't exist [pack/locale_en_texcache]
+1017 04:39:11944 :: The eterpack doesn't exist [pack/locale_mx]
+1017 04:39:11945 :: The eterpack doesn't exist [pack/locale_mx_texcache]
+1017 04:39:11948 :: The eterpack doesn't exist [pack/locale_ro_texcache]
+1017 04:39:11949 :: The eterpack doesn't exist [pack/locale_ru_texcache]
+1017 04:39:11951 :: The eterpack doesn't exist [pack/locale_dk_texcache]
+1017 04:39:11952 :: The eterpack doesn't exist [pack/locale_cz_texcache]
+1017 04:39:11955 :: The eterpack doesn't exist [pack/locale_hu_texcache]
+1017 04:39:11956 :: The eterpack doesn't exist [pack/locale_us]
+1017 04:39:11957 :: The eterpack doesn't exist [pack/locale_us_texcache]
+1017 04:39:11958 :: The eterpack doesn't exist [pack/locale_pa]
+1017 04:39:11959 :: The eterpack doesn't exist [pack/locale_pa_texcache]
+1017 04:39:11960 :: The eterpack doesn't exist [pack/uiscript_texcache]
+1017 04:39:11962 :: The eterpack doesn't exist [pack/ETC_texcache]
+1017 04:39:11963 :: The eterpack doesn't exist [pack/uiloading_texcache]
+1017 04:39:00002 :: 
+1017 04:39:00005 :: ## Network - OffLine Phase ##
+1017 04:39:00007 :: 
+1017 04:39:00011 :: SYSERR: CANNOT_FIND_PACK_FILE [locale/gr/atlasinfo.txt]
+1017 04:39:00037 :: importing from pack debugInfo
+1017 04:39:00038 :: importing from pack localeInfo
+1017 04:39:00044 :: importing from pack constInfo
+1017 04:39:00052 :: importing from pack mouseModule
+1017 04:39:00054 :: importing from pack ui
+1017 04:39:00068 :: importing from pack networkModule
+1017 04:39:00070 :: importing from pack playerSettingModule
+1017 04:39:00078 :: importing from pack emotion
+1017 04:39:00080 :: importing from pack uiPhaseCurtain
+1017 04:39:00081 :: importing from pack uiCandidate
+1017 04:39:00082 :: importing from pack musicInfo
+1017 04:39:00082 :: importing from pack stringCommander
+1017 04:39:00936 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/dropitem/dropitem.mss]
+1017 04:39:00943 :: NEWMAIN STREAM ----------------------------------------------------------------------------1017 04:39:00943 :: 
+1017 04:39:00943 :: NEW POPUP DIALOG ----------------------------------------------------------------------------1017 04:39:00943 :: 
+1017 04:39:00943 :: importing from pack exception
+1017 04:39:00944 :: ===== Load Script File : UIScript/PopupDialog.py1017 04:39:00944 :: 
+1017 04:39:00944 :: importing from pack uiScriptLocale
+1017 04:39:00955 :: NEW CURTAIN  ----------------------------------------------------------------------------1017 04:39:00955 :: 
+1017 04:39:00955 :: 
+1017 04:39:00956 :: ## Network - OffLine Phase ##
+1017 04:39:00958 :: 
+1017 04:39:00959 :: importing from pack introLogo
+1017 04:39:00960 :: NEW LOGO WINDOW  ----------------------------------------------------------------------------1017 04:39:00960 :: 
+1017 04:39:01035 :: OPEN LOGO WINDOW  ----------------------------------------------------------------------------1017 04:39:01035 :: 
+1017 04:39:01042 :: PointWindow: SelectLogoWindow
+1017 04:39:01105 :: 
+1017 04:39:01106 :: ## Network - OffLine Phase ##
+1017 04:39:01107 :: 
+1017 04:39:01107 :: importing from pack introLogin
+1017 04:39:01111 :: importing from pack serverInfo
+1017 04:39:01112 :: importing from pack uiCommon
+1017 04:39:01114 :: importing from lib time
+1017 04:39:01115 :: importing from pack serverCommandParser
+1017 04:39:01116 :: NEW LOGIN WINDOW  ----------------------------------------------------------------------------1017 04:39:01116 :: 
+1017 04:39:01117 :: PointWindow: PhaseCurtain
+1017 04:39:01241 :: ---------------------------------------------------------------CLOSE LOGO WINDOW1017 04:39:01241 :: 
+1017 04:39:01242 :: LOGIN WINDOW OPEN ----------------------------------------------------------------------------1017 04:39:01242 :: 
+1017 04:39:01242 :: ===== Load Script File : locale/gr/ui/LoginWindow.py1017 04:39:01242 :: 
+1017 04:39:01375 :: 자동 로그인을 하시려면loginInfo.xml파일을 작성해주세요
+
+내용:
+================================================================
+addr=주소
+port=포트
+id=아이디
+pwd=비밀번호
+slot=캐릭터 선택 인덱스 (없거나 -1이면 자동 선택 안함)
+autoLogin=자동 접속 여부
+autoSelect=자동 접속 여부
+locale=(ymir) LC_Ymir 일경우 ymir로 작동. 지정하지 않으면 korea로 작동
+1017 04:39:01376 :: 
+1017 04:39:01381 :: ---------------------------------------------------------------------------- DELETE LOGO WINDOW1017 04:39:01381 :: 
+1017 04:39:04656 :: Failed to connect.
+1017 04:40:29589 :: PointWindow: bg2
+1017 04:40:29621 :: PointWindow: ChannelList
+1017 04:40:29653 :: PointWindow: ServerList
+1017 04:40:29868 :: PointWindow: VerticalLine2
+1017 04:40:29885 :: PointWindow: ChannelList
+1017 04:40:30000 :: PointWindow: ServerSelectButton
+1017 04:40:30315 :: PointWindow: key_space
+1017 04:40:36203 :: PointWindow: bg2
+1017 04:40:44504 :: PointWindow: bg2
+1017 04:40:44521 :: PointWindow: VirtualKeyboard
+1017 04:40:44535 :: PointWindow: key_38
+1017 04:40:44553 :: PointWindow: key_29
+1017 04:40:44569 :: PointWindow: key_30
+1017 04:40:44602 :: PointWindow: key_19
+1017 04:40:44635 :: PointWindow: key_7
+1017 04:40:44685 :: PointWindow: VirtualKeyboard
+1017 04:40:44734 :: PointWindow: bg2
+1017 04:40:44768 :: PointWindow: LoginBoard
+1017 04:40:44950 :: PointWindow: LoginButton
+1017 04:40:45114 :: PointWindow: LoginBoard
+1017 04:40:45427 :: PointWindow: LoginButton
+1017 04:40:45626 :: PointWindow: board
+1017 04:40:45708 :: HANDSHAKE RECV 17256 0
+1017 04:40:45708 :: HANDSHAKE SEND 17256
+1017 04:40:45790 :: HANDSHAKE RECV 17336 40
+1017 04:40:45790 :: HANDSHAKE SEND 17416
+1017 04:40:45873 :: KEY_AGREEMENT RECV 256
+1017 04:40:45932 :: KEY_AGREEMENT SEND 256
+1017 04:40:45955 :: KEY_AGREEMENT_COMPLETED RECV
+1017 04:40:46021 :: PointWindow: !!debug
+1017 04:40:46318 :: Succeed connecting.
+1017 04:40:46369 :: 
+1017 04:40:46370 :: ## Network - Hand Shake Phase ##
+1017 04:40:46371 :: 
+1017 04:40:46384 :: HANDSHAKE RECV 10922 0
+1017 04:40:46384 :: HANDSHAKE SEND 10922
+1017 04:40:46450 :: HANDSHAKE RECV 11003 40
+1017 04:40:46450 :: HANDSHAKE SEND 11083
+1017 04:40:46533 :: KEY_AGREEMENT RECV 256
+1017 04:40:46594 :: KEY_AGREEMENT SEND 256
+1017 04:40:46614 :: KEY_AGREEMENT_COMPLETED RECV
+1017 04:40:46664 :: 
+1017 04:40:46665 :: ## Network - Login Phase ##
+1017 04:40:46665 :: 
+1017 04:40:47143 :: 
+1017 04:40:47144 :: ## Network - Select Phase ##
+1017 04:40:47145 :: 
+1017 04:40:47240 :: SYSERR:     한국무쌍버젼(#2    ) cannot find icon file. setting to default.
+1017 04:40:47243 :: SYSERR:     광륜팔괘패+0(#13180) cannot find icon file. setting to default.
+1017 04:40:47243 :: SYSERR:     광륜팔괘패+1(#13181) cannot find icon file. setting to default.
+1017 04:40:47244 :: SYSERR:     광륜팔괘패+2(#13182) cannot find icon file. setting to default.
+1017 04:40:47244 :: SYSERR:     광륜팔괘패+3(#13183) cannot find icon file. setting to default.
+1017 04:40:47245 :: SYSERR:     광륜팔괘패+4(#13184) cannot find icon file. setting to default.
+1017 04:40:47245 :: SYSERR:     광륜팔괘패+5(#13185) cannot find icon file. setting to default.
+1017 04:40:47246 :: SYSERR:     광륜팔괘패+6(#13186) cannot find icon file. setting to default.
+1017 04:40:47246 :: SYSERR:     광륜팔괘패+7(#13187) cannot find icon file. setting to default.
+1017 04:40:47246 :: SYSERR:     광륜팔괘패+8(#13188) cannot find icon file. setting to default.
+1017 04:40:47247 :: SYSERR:     광륜팔괘패+9(#13189) cannot find icon file. setting to default.
+1017 04:40:47252 :: SYSERR:       위치기억부(#22020) cannot find icon file. setting to default.
+1017 04:40:47252 :: SYSERR:           이동부(#22030) cannot find icon file. setting to default.
+1017 04:40:47252 :: SYSERR:           생명부(#22040) cannot find icon file. setting to default.
+1017 04:40:47253 :: SYSERR:           환생부(#22050) cannot find icon file. setting to default.
+1017 04:40:47254 :: SYSERR:           가리비(#29001) cannot find icon file. setting to default.
+1017 04:40:47254 :: SYSERR:         청가리비(#29002) cannot find icon file. setting to default.
+1017 04:40:47255 :: SYSERR:         황가리비(#29003) cannot find icon file. setting to default.
+1017 04:40:47255 :: SYSERR:         홍가리비(#29004) cannot find icon file. setting to default.
+1017 04:40:47255 :: SYSERR:         녹가리비(#29005) cannot find icon file. setting to default.
+1017 04:40:47256 :: SYSERR:           황주석(#29006) cannot find icon file. setting to default.
+1017 04:40:47256 :: SYSERR:           청주석(#29007) cannot find icon file. setting to default.
+1017 04:40:47256 :: SYSERR:           청신수(#29008) cannot find icon file. setting to default.
+1017 04:40:47257 :: SYSERR:           황신수(#29009) cannot find icon file. setting to default.
+1017 04:40:47257 :: SYSERR:           홍신수(#29010) cannot find icon file. setting to default.
+1017 04:40:47257 :: SYSERR:           녹신수(#29011) cannot find icon file. setting to default.
+1017 04:40:47258 :: SYSERR:         연청신수(#29012) cannot find icon file. setting to default.
+1017 04:40:47259 :: SYSERR:         연황신수(#29013) cannot find icon file. setting to default.
+1017 04:40:47259 :: SYSERR:         연홍신수(#29014) cannot find icon file. setting to default.
+1017 04:40:47260 :: SYSERR:         연녹신수(#29015) cannot find icon file. setting to default.
+1017 04:40:47260 :: SYSERR: 웅귀의 황금어금니(#30103) cannot find icon file. setting to default.
+1017 04:40:47261 :: SYSERR:    사막의 거미줄(#30104) cannot find icon file. setting to default.
+1017 04:40:47261 :: SYSERR:  톡쏘는 전갈꼬리(#30105) cannot find icon file. setting to default.
+1017 04:40:47261 :: SYSERR:   유랑 어머니 약(#30106) cannot find icon file. setting to default.
+1017 04:40:47262 :: SYSERR:    웅귀의 송곳니(#30107) cannot find icon file. setting to default.
+1017 04:40:47262 :: SYSERR: 도자기착색용유약(#30108) cannot find icon file. setting to default.
+1017 04:40:47262 :: SYSERR:    사막의 거미줄(#30109) cannot find icon file. setting to default.
+1017 04:40:47262 :: SYSERR:    후안소의 편지(#30110) cannot find icon file. setting to default.
+1017 04:40:47263 :: SYSERR:  톡쏘는 전갈꼬리(#30111) cannot find icon file. setting to default.
+1017 04:40:47263 :: SYSERR:             장어(#30112) cannot find icon file. setting to default.
+1017 04:40:47263 :: SYSERR:        밀교 경전(#30113) cannot find icon file. setting to default.
+1017 04:40:47263 :: SYSERR:           괴질균(#30114) cannot find icon file. setting to default.
+1017 04:40:47264 :: SYSERR:      괴질 치료제(#30115) cannot find icon file. setting to default.
+1017 04:40:47264 :: SYSERR:    행상인의 편지(#30117) cannot find icon file. setting to default.
+1017 04:40:47264 :: SYSERR:    사귀의 보석함(#30118) cannot find icon file. setting to default.
+1017 04:40:47267 :: SYSERR:      VIP-Feature(#38001) cannot find icon file. setting to default.
+1017 04:40:47267 :: SYSERR: Tombola_ticket_today(#38002) cannot find icon file. setting to default.
+1017 04:40:47267 :: SYSERR: Tombola_ticket_tomorrow(#38003) cannot find icon file. setting to default.
+1017 04:40:47267 :: SYSERR:   Tombola_reroll(#38004) cannot find icon file. setting to default.
+1017 04:40:47267 :: SYSERR:   TombolaPP_spin(#38005) cannot find icon file. setting to default.
+1017 04:40:47269 :: SYSERR:      Momo-Reroll(#38006) cannot find icon file. setting to default.
+1017 04:40:47269 :: SYSERR:    소리나는 방울(#40005) cannot find icon file. setting to default.
+1017 04:40:47269 :: SYSERR:    오랑캐 수송서(#40006) cannot find icon file. setting to default.
+1017 04:40:47270 :: SYSERR: 오랑캐 보스 편지(#40007) cannot find icon file. setting to default.
+1017 04:40:47271 :: SYSERR:       선물보따리(#50041) cannot find icon file. setting to default.
+1017 04:40:47271 :: SYSERR:       승마수련서(#50062) cannot find icon file. setting to default.
+1017 04:40:47271 :: SYSERR:     용각보물상자(#50118) cannot find icon file. setting to default.
+1017 04:40:47271 :: SYSERR:       영석보따리(#50119) cannot find icon file. setting to default.
+1017 04:40:47272 :: SYSERR:         석창포액(#50805) cannot find icon file. setting to default.
+1017 04:40:47272 :: SYSERR:       영지버섯액(#50806) cannot find icon file. setting to default.
+1017 04:40:47272 :: SYSERR:         만병초액(#50807) cannot find icon file. setting to default.
+1017 04:40:47273 :: SYSERR:       산뽕나무액(#50808) cannot find icon file. setting to default.
+1017 04:40:47273 :: SYSERR:         민들레액(#50809) cannot find icon file. setting to default.
+1017 04:40:47273 :: SYSERR:         홍화씨액(#50810) cannot find icon file. setting to default.
+1017 04:40:47273 :: SYSERR:           대추액(#50811) cannot find icon file. setting to default.
+1017 04:40:47274 :: SYSERR:     삼지구엽초액(#50812) cannot find icon file. setting to default.
+1017 04:40:47274 :: SYSERR:           빈약병(#50901) cannot find icon file. setting to default.
+1017 04:40:47274 :: SYSERR:    활심액 제조법(#50905) cannot find icon file. setting to default.
+1017 04:40:47275 :: SYSERR:    피독수 제조법(#50906) cannot find icon file. setting to default.
+1017 04:40:47275 :: SYSERR:    보환수 제조법(#50907) cannot find icon file. setting to default.
+1017 04:40:47275 :: SYSERR:    영보수 제조법(#50908) cannot find icon file. setting to default.
+1017 04:40:47276 :: SYSERR:    진피독 제조법(#50909) cannot find icon file. setting to default.
+1017 04:40:47276 :: SYSERR:    활심액 제조법(#50910) cannot find icon file. setting to default.
+1017 04:40:47277 :: SYSERR:             불경(#70103) cannot find icon file. setting to default.
+1017 04:40:47278 :: SYSERR:      용신의 지원(#71031) cannot find icon file. setting to default.
+1017 04:40:47278 :: SYSERR:      동료와 회포(#71047) cannot find icon file. setting to default.
+1017 04:40:47279 :: SYSERR:     전광판보따리(#71091) cannot find icon file. setting to default.
+1017 04:40:47280 :: SYSERR:       경험의반지(#72303) cannot find icon file. setting to default.
+1017 04:40:47281 :: SYSERR:      축복의 구슬(#72304) cannot find icon file. setting to default.
+1017 04:40:47281 :: SYSERR:         만년한철(#72308) cannot find icon file. setting to default.
+1017 04:40:47281 :: SYSERR:    야공의 비전서(#72309) cannot find icon file. setting to default.
+1017 04:40:47281 :: SYSERR:         주안술서(#72310) cannot find icon file. setting to default.
+1017 04:40:47282 :: SYSERR:        용신의 환(#72311) cannot find icon file. setting to default.
+1017 04:40:47282 :: SYSERR:      용신의 공격(#72312) cannot find icon file. setting to default.
+1017 04:40:47283 :: SYSERR:      용신의 방어(#72313) cannot find icon file. setting to default.
+1017 04:40:47283 :: SYSERR:    용신의 축복서(#72314) cannot find icon file. setting to default.
+1017 04:40:47283 :: SYSERR:         돈주머니(#80001) cannot find icon file. setting to default.
+1017 04:40:47283 :: SYSERR:             백지(#80002) cannot find icon file. setting to default.
+1017 04:40:47283 :: SYSERR:           빈물통(#90001) cannot find icon file. setting to default.
+1017 04:40:47283 :: SYSERR:             물통(#90002) cannot find icon file. setting to default.
+1017 04:40:47284 :: SYSERR:             보석(#90004) cannot find icon file. setting to default.
+1017 04:40:47284 :: SYSERR:             영석(#90006) cannot find icon file. setting to default.
+1017 04:40:47284 :: SYSERR:             광석(#90007) cannot find icon file. setting to default.
+1017 04:40:47310 :: CPythonNonPlayer::LoadNonPlayerData: locale/gr/mob_proto, sizeof(TMobTable)=255
+1017 04:40:47322 :: CPythonSkill::RegisterSkillTable(locale/gr/SkillTable.txt) - NOT EXIST SkillDesc [Vnum:158 Line:56]
+1017 04:40:47322 :: CPythonSkill::RegisterSkillTable(locale/gr/SkillTable.txt) - NOT EXIST SkillDesc [Vnum:159 Line:57]
+1017 04:40:47322 :: CPythonSkill::RegisterSkillTable(locale/gr/SkillTable.txt) - NOT EXIST SkillDesc [Vnum:160 Line:58]
+1017 04:40:47323 :: CPythonSkill::RegisterSkillTable(locale/gr/SkillTable.txt) - NOT EXIST SkillDesc [Vnum:161 Line:59]
+1017 04:40:47323 :: CPythonSkill::RegisterSkillTable(locale/gr/SkillTable.txt) - NOT EXIST SkillDesc [Vnum:162 Line:60]
+1017 04:40:47323 :: CPythonSkill::RegisterSkillTable(locale/gr/SkillTable.txt) - NOT EXIST SkillDesc [Vnum:256 Line:61]
+1017 04:40:47324 :: CPythonSkill::RegisterSkillTable(locale/gr/SkillTable.txt) - NOT EXIST SkillDesc [Vnum:257 Line:62]
+1017 04:40:47324 :: CPythonSkill::RegisterSkillTable(locale/gr/SkillTable.txt) - NOT EXIST SkillDesc [Vnum:258 Line:63]
+1017 04:40:47324 :: CPythonSkill::RegisterSkillTable(locale/gr/SkillTable.txt) - NOT EXIST SkillDesc [Vnum:259 Line:64]
+1017 04:40:47325 :: CPythonSkill::RegisterSkillTable(locale/gr/SkillTable.txt) - NOT EXIST SkillDesc [Vnum:260 Line:65]
+1017 04:40:47325 :: CPythonSkill::RegisterSkillTable(locale/gr/SkillTable.txt) - NOT EXIST SkillDesc [Vnum:261 Line:66]
+1017 04:40:47325 :: CPythonSkill::RegisterSkillTable(locale/gr/SkillTable.txt) - NOT EXIST SkillDesc [Vnum:262 Line:67]
+1017 04:40:47328 :: importing from pack introSelect
+1017 04:40:47330 :: importing from lib math
+1017 04:40:47331 :: importing from pack uiMapNameShower
+1017 04:40:47332 :: importing from pack uiAffectShower
+1017 04:40:47334 :: importing from pack uiToolTip
+1017 04:40:47341 :: importing from pack uiPlayerGauge
+1017 04:40:47342 :: importing from pack uiCharacter
+1017 04:40:47346 :: importing from pack uiTarget
+1017 04:40:47348 :: importing from pack consoleModule
+1017 04:40:47351 :: importing from pack interfaceModule
+1017 04:40:47355 :: importing from pack uiTaskBar
+1017 04:40:47358 :: importing from pack uiInventory
+1017 04:40:47362 :: importing from pack uiRefine
+1017 04:40:47364 :: importing from pack uiAttachMetin
+1017 04:40:47364 :: importing from pack uiPickMoney
+1017 04:40:47365 :: importing from pack uiPrivateShopBuilder
+1017 04:40:47367 :: importing from pack uiDragonSoul
+1017 04:40:47371 :: importing from pack uiChat
+1017 04:40:47374 :: importing from pack colorInfo
+1017 04:40:47375 :: importing from pack uiMessenger
+1017 04:40:47378 :: importing from pack uiGameOption
+1017 04:40:47380 :: importing from pack uiHelp
+1017 04:40:47380 :: importing from pack uiWhisper
+1017 04:40:47382 :: importing from pack uiPointReset
+1017 04:40:47383 :: importing from pack uiShop
+1017 04:40:47384 :: importing from pack uiExchange
+1017 04:40:47386 :: importing from pack uiSystem
+1017 04:40:47386 :: importing from pack uiOption
+1017 04:40:47388 :: importing from pack uiSystemOption
+1017 04:40:47389 :: importing from pack uiSelectMusic
+1017 04:40:47390 :: importing from pack uiRestart
+1017 04:40:47391 :: importing from pack uiMiniMap
+1017 04:40:47392 :: importing from pack uiParty
+1017 04:40:47395 :: importing from pack uiSafebox
+1017 04:40:47397 :: importing from pack uiGuild
+1017 04:40:47406 :: importing from pack uiUploadMark
+1017 04:40:47408 :: importing from pack uiQuest
+1017 04:40:47410 :: importing from pack uiEquipmentDialog
+1017 04:40:47411 :: importing from pack uiGameButton
+1017 04:40:47412 :: importing from pack uiTip
+1017 04:40:47413 :: importing from pack uiCube
+1017 04:40:47415 :: importing from pack uiselectitem
+1017 04:40:47446 :: ---------------------------------------------------------------------------- CLOSE LOGIN WINDOW 1017 04:40:47446 :: 
+1017 04:40:47446 :: ===== Load Script File : locale/gr/ui/selectcharacterwindow.py1017 04:40:47446 :: 
+1017 04:40:47515 :: ===== Load Script File : uiscript/questiondialog.py1017 04:40:47515 :: 
+1017 04:40:47517 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/dust/dust.mss]
+1017 04:40:47520 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/dust/running_dust.mss]
+1017 04:40:47527 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/recuperation/drugup_red.mss]
+1017 04:40:47530 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/recuperation/drugup_blue.mss]
+1017 04:40:47532 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/recuperation/drugup_green.mss]
+1017 04:40:47534 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/recuperation/drugup_purple.mss]
+1017 04:40:47535 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/recuperation/autodrugup_red.mss]
+1017 04:40:47538 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/recuperation/autodrugup_blue.mss]
+1017 04:40:47543 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/buff/buff_item1.mss]
+1017 04:40:47554 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/buff/buff_item2.mss]
+1017 04:40:47560 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/buff/buff_item3.mss]
+1017 04:40:47564 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/buff/buff_item4.mss]
+1017 04:40:47570 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/hit/gwantong.mss]
+1017 04:40:47605 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/click/click_select.mss]
+1017 04:40:47608 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/click/click_glow_select.mss]
+1017 04:40:47612 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/stun/stun.mss]
+1017 04:40:47624 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/click/click.mss]
+1017 04:40:47627 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/affect/damagevalue/target.mss]
+1017 04:40:47628 :: SYSERR: CResourceManager::GetResourcePointer: File not exist d:/ymir work/effect/affect/damagevalue/0.jpg
+1017 04:40:47628 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/affect/damagevalue/nontarget.mss]
+1017 04:40:47629 :: SYSERR: CANNOT_FIND_PACK_FILE [d:/ymir work/effect/affect/damagevalue/0.jpg]
+1017 04:40:47629 :: CResource::Load file not exist d:\ymir work\effect\affect\damagevalue\0.jpg
+1017 04:40:47630 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/affect/damagevalue/damage.mss]
+1017 04:40:47632 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/affect/damagevalue/damage_1.mss]
+1017 04:40:47632 :: SYSERR: CResourceManager::GetResourcePointer: File not exist d:/ymir work/effect/affect/damagevalue/poison0.jpg
+1017 04:40:47633 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/affect/damagevalue/poison.mss]
+1017 04:40:47633 :: SYSERR: CANNOT_FIND_PACK_FILE [d:/ymir work/effect/affect/damagevalue/poison0.jpg]
+1017 04:40:47633 :: CResource::Load file not exist d:\ymir work\effect\affect\damagevalue\poison0.jpg
+1017 04:40:47635 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/affect/damagevalue/miss.mss]
+1017 04:40:47636 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/affect/damagevalue/target_miss.mss]
+1017 04:40:47652 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/hit/percent_damage1.mss]
+1017 04:40:47657 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/hit/percent_damage2.mss]
+1017 04:40:47661 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/hit/percent_damage3.mss]
+1017 04:40:47661 :: CRaceManager::CreateRace(dwRaceIndex=0)
+1017 04:40:47676 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/intro/wait.mss]
+1017 04:40:47680 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/intro/not_selected.mss]
+1017 04:40:47684 :: CRaceManager::CreateRace(dwRaceIndex=4)
+1017 04:40:47699 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/warrior/intro/wait.mss]
+1017 04:40:47704 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/warrior/intro/not_selected.mss]
+1017 04:40:47707 :: CRaceManager::CreateRace(dwRaceIndex=1)
+1017 04:40:47723 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/intro/wait.mss]
+1017 04:40:47728 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/intro/not_selected.mss]
+1017 04:40:47730 :: CRaceManager::CreateRace(dwRaceIndex=5)
+1017 04:40:47744 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/assassin/intro/wait.mss]
+1017 04:40:47750 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/assassin/intro/not_selected.mss]
+1017 04:40:47754 :: CRaceManager::CreateRace(dwRaceIndex=2)
+1017 04:40:47769 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/intro/wait.mss]
+1017 04:40:47775 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/intro/not_selected.mss]
+1017 04:40:47778 :: CRaceManager::CreateRace(dwRaceIndex=6)
+1017 04:40:47794 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/sura/intro/wait.mss]
+1017 04:40:47802 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/sura/intro/not_selected.mss]
+1017 04:40:47804 :: CRaceManager::CreateRace(dwRaceIndex=3)
+1017 04:40:47820 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/intro/wait.mss]
+1017 04:40:47826 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/intro/not_selected.mss]
+1017 04:40:47829 :: CRaceManager::CreateRace(dwRaceIndex=7)
+1017 04:40:47844 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/shaman/intro/wait.mss]
+1017 04:40:47850 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/shaman/intro/not_selected.mss]
+1017 04:40:47853 :: SelectCharacterInstance: no vid by 0
+1017 04:40:47869 :: ---------------------------------------------------------------------------- DELETE LOGIN WINDOW1017 04:40:47869 :: 
+1017 04:40:48631 :: PointWindow: BackGround
+1017 04:40:48647 :: PointWindow: character_board
+1017 04:40:48812 :: PointWindow: BackGround
+1017 04:40:48894 :: PointWindow: character_board
+1017 04:40:49191 :: PointWindow: start_button
+1017 04:40:49472 :: PointWindow: BackGround
+1017 04:40:52375 :: Succeed connecting.
+1017 04:40:52458 :: 
+1017 04:40:52459 :: ## Network - Hand Shake Phase ##
+1017 04:40:52460 :: 
+1017 04:40:52474 :: HANDSHAKE RECV 16963 0
+1017 04:40:52474 :: HANDSHAKE SEND 16963
+1017 04:40:52574 :: HANDSHAKE RECV 17123 80
+1017 04:40:52574 :: HANDSHAKE SEND 17283
+1017 04:40:52655 :: HANDSHAKE RECV 17203 40
+1017 04:40:52655 :: HANDSHAKE SEND 17283
+1017 04:40:52739 :: KEY_AGREEMENT RECV 256
+1017 04:40:52797 :: KEY_AGREEMENT SEND 256
+1017 04:40:52821 :: KEY_AGREEMENT_COMPLETED RECV
+1017 04:40:52855 :: 
+1017 04:40:52855 :: ## Network - Login Phase ##
+1017 04:40:52856 :: 
+1017 04:40:53348 :: 
+1017 04:40:53349 :: ## Network - Select Phase ##
+1017 04:40:53350 :: 
+1017 04:40:53351 :: importing from pack introLoading
+1017 04:40:53353 :: NEW LOADING WINDOW -------------------------------------------------------------------------------1017 04:40:53354 :: 
+1017 04:40:53498 :: DeleteCharacterInstance: no vid by 1
+1017 04:40:53499 :: DeleteCharacterInstance: no vid by 2
+1017 04:40:53499 :: DeleteCharacterInstance: no vid by 3
+1017 04:40:53499 :: OPEN LOADING WINDOW -------------------------------------------------------------------------------1017 04:40:53500 :: 
+1017 04:40:53500 :: ===== Load Script File : locale/gr/ui/LoadingWindow.py1017 04:40:53500 :: 
+1017 04:40:54075 :: 
+1017 04:40:54076 :: ## Network - Loading Phase ##
+1017 04:40:54077 :: 
+1017 04:40:54108 ::  BINARY_ServerCommand_Reserve1017 04:40:54108 ::  1017 04:40:54108 :: xmas_boom 21017 04:40:54108 :: 
+1017 04:40:54239 :: Property already registered, replace property/devils_dragon_island/mtthunder_thorn01.prb to property/devils_dragon_island/thing/obj_mtthund_thorn01.prb
+1017 04:40:54303 :: LoadWaterMapFile metin2_map_c3\001000\water.wtr 0
+1017 04:40:54304 :: LoadRawHeightMapFile metin2_map_c3\001000\height.raw 1017 04:40:54305 :: LoadHeightMap::CalculateNormal 1 ms
+1017 04:40:54305 :: LoadAttrMapFile metin2_map_c3\001000\attr.atr 1017 04:40:54306 :: 1
+1017 04:40:54306 :: LoadSplatFile metin2_map_c3\001000\tile.raw 1017 04:40:54312 :: CTerrain::RAW_AllocateSplats 6
+1017 04:40:54313 :: CTerrain::LoadShadowTexture 1 ms
+1017 04:40:54313 :: LoadShadowMap metin2_map_c3\001000\shadowmap.raw 1017 04:40:54313 :: 0 ms
+1017 04:40:54314 :: CTerrain::LoadMiniMapTexture 1 ms
+1017 04:40:54315 :: CMapOutdoor::LoadTerrain 13
+1017 04:40:54315 :: CMapOutdoor::LoadArea1 0
+1017 04:40:54495 :: CMapOutdoor::LoadArea2 180
+1017 04:40:54496 :: CMapOutdoor::LoadArea3 0
+1017 04:40:54496 :: LoadWaterMapFile metin2_map_c3\002000\water.wtr 0
+1017 04:40:54497 :: LoadRawHeightMapFile metin2_map_c3\002000\height.raw 1017 04:40:54498 :: LoadHeightMap::CalculateNormal 1 ms
+1017 04:40:54498 :: LoadAttrMapFile metin2_map_c3\002000\attr.atr 1017 04:40:54499 :: 1
+1017 04:40:54499 :: LoadSplatFile metin2_map_c3\002000\tile.raw 1017 04:40:54504 :: CTerrain::RAW_AllocateSplats 4
+1017 04:40:54504 :: CTerrain::LoadShadowTexture 0 ms
+1017 04:40:54504 :: LoadShadowMap metin2_map_c3\002000\shadowmap.raw 1017 04:40:54505 :: 1 ms
+1017 04:40:54505 :: CTerrain::LoadMiniMapTexture 0 ms
+1017 04:40:54506 :: CMapOutdoor::LoadTerrain 10
+1017 04:40:54506 :: CMapOutdoor::LoadArea1 0
+1017 04:40:54580 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/background/warpgate03.mss]
+1017 04:40:54596 :: CMapOutdoor::LoadArea2 90
+1017 04:40:54596 :: CMapOutdoor::LoadArea3 0
+1017 04:40:54596 :: LoadWaterMapFile metin2_map_c3\003000\water.wtr 0
+1017 04:40:54597 :: LoadRawHeightMapFile metin2_map_c3\003000\height.raw 1017 04:40:54599 :: LoadHeightMap::CalculateNormal 1 ms
+1017 04:40:54599 :: LoadAttrMapFile metin2_map_c3\003000\attr.atr 1017 04:40:54599 :: 0
+1017 04:40:54599 :: LoadSplatFile metin2_map_c3\003000\tile.raw 1017 04:40:54603 :: CTerrain::RAW_AllocateSplats 4
+1017 04:40:54604 :: CTerrain::LoadShadowTexture 0 ms
+1017 04:40:54604 :: LoadShadowMap metin2_map_c3\003000\shadowmap.raw 1017 04:40:54604 :: 0 ms
+1017 04:40:54604 :: CTerrain::LoadMiniMapTexture 0 ms
+1017 04:40:54605 :: CMapOutdoor::LoadTerrain 9
+1017 04:40:54605 :: CMapOutdoor::LoadArea1 0
+1017 04:40:54616 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/background/warpgate02.mss]
+1017 04:40:54623 :: CMapOutdoor::LoadArea2 18
+1017 04:40:54623 :: CMapOutdoor::LoadArea3 0
+1017 04:40:54624 :: LoadWaterMapFile metin2_map_c3\001001\water.wtr 1
+1017 04:40:54624 :: LoadRawHeightMapFile metin2_map_c3\001001\height.raw 1017 04:40:54625 :: LoadHeightMap::CalculateNormal 1 ms
+1017 04:40:54625 :: LoadAttrMapFile metin2_map_c3\001001\attr.atr 1017 04:40:54626 :: 1
+1017 04:40:54626 :: LoadSplatFile metin2_map_c3\001001\tile.raw 1017 04:40:54630 :: CTerrain::RAW_AllocateSplats 4
+1017 04:40:54630 :: CTerrain::LoadShadowTexture 0 ms
+1017 04:40:54630 :: LoadShadowMap metin2_map_c3\001001\shadowmap.raw 1017 04:40:54630 :: 0 ms
+1017 04:40:54631 :: CTerrain::LoadMiniMapTexture 1 ms
+1017 04:40:54632 :: CMapOutdoor::LoadTerrain 9
+1017 04:40:54632 :: CMapOutdoor::LoadArea1 0
+1017 04:40:54669 :: CMapOutdoor::LoadArea2 37
+1017 04:40:54670 :: CMapOutdoor::LoadArea3 0
+1017 04:40:54670 :: LoadWaterMapFile metin2_map_c3\002001\water.wtr 0
+1017 04:40:54670 :: LoadRawHeightMapFile metin2_map_c3\002001\height.raw 1017 04:40:54672 :: LoadHeightMap::CalculateNormal 1 ms
+1017 04:40:54672 :: LoadAttrMapFile metin2_map_c3\002001\attr.atr 1017 04:40:54672 :: 0
+1017 04:40:54672 :: LoadSplatFile metin2_map_c3\002001\tile.raw 1017 04:40:54677 :: CTerrain::RAW_AllocateSplats 5
+1017 04:40:54677 :: CTerrain::LoadShadowTexture 0 ms
+1017 04:40:54678 :: LoadShadowMap metin2_map_c3\002001\shadowmap.raw 1017 04:40:54678 :: 1 ms
+1017 04:40:54678 :: CTerrain::LoadMiniMapTexture 0 ms
+1017 04:40:54679 :: CMapOutdoor::LoadTerrain 9
+1017 04:40:54680 :: CMapOutdoor::LoadArea1 0
+1017 04:40:54705 :: SYSERR: CResourceManager::GetResourcePointer: File not exist d:/ymir work/zone/공용/hay_01.gr2
+1017 04:40:54706 :: SYSERR: CANNOT_FIND_PACK_FILE [d:/ymir work/zone/공용/hay_01.gr2]
+1017 04:40:54706 :: CResource::Load file not exist d:\ymir work\zone\공용\hay_01.gr2
+1017 04:40:54706 :: SYSERR: CArea::SetBuilding: There is no data: d:/ymir work/zone/공용/hay_01.gr2
+1017 04:40:54706 :: SYSERR: CArea::SetBuilding: There is no data: d:/ymir work/zone/공용/hay_01.gr2
+1017 04:40:54707 :: SYSERR: CArea::SetBuilding: There is no data: d:/ymir work/zone/공용/hay_01.gr2
+1017 04:40:54707 :: SYSERR: CArea::SetBuilding: There is no data: d:/ymir work/zone/공용/hay_01.gr2
+1017 04:40:54707 :: SYSERR: CArea::SetBuilding: There is no data: d:/ymir work/zone/공용/hay_01.gr2
+1017 04:40:54709 :: CMapOutdoor::LoadArea2 28
+1017 04:40:54709 :: CMapOutdoor::LoadArea3 0
+1017 04:40:54709 :: LoadWaterMapFile metin2_map_c3\003001\water.wtr 0
+1017 04:40:54710 :: LoadRawHeightMapFile metin2_map_c3\003001\height.raw 1017 04:40:54711 :: LoadHeightMap::CalculateNormal 1 ms
+1017 04:40:54711 :: LoadAttrMapFile metin2_map_c3\003001\attr.atr 1017 04:40:54711 :: 0
+1017 04:40:54712 :: LoadSplatFile metin2_map_c3\003001\tile.raw 1017 04:40:54716 :: CTerrain::RAW_AllocateSplats 4
+1017 04:40:54716 :: CTerrain::LoadShadowTexture 0 ms
+1017 04:40:54716 :: LoadShadowMap metin2_map_c3\003001\shadowmap.raw 1017 04:40:54716 :: 0 ms
+1017 04:40:54717 :: CTerrain::LoadMiniMapTexture 1 ms
+1017 04:40:54718 :: CMapOutdoor::LoadTerrain 9
+1017 04:40:54718 :: CMapOutdoor::LoadArea1 0
+1017 04:40:54726 :: CMapOutdoor::LoadArea2 8
+1017 04:40:54726 :: CMapOutdoor::LoadArea3 0
+1017 04:40:54726 :: LoadWaterMapFile metin2_map_c3\001002\water.wtr 0
+1017 04:40:54727 :: LoadRawHeightMapFile metin2_map_c3\001002\height.raw 1017 04:40:54728 :: LoadHeightMap::CalculateNormal 1 ms
+1017 04:40:54728 :: LoadAttrMapFile metin2_map_c3\001002\attr.atr 1017 04:40:54728 :: 0
+1017 04:40:54728 :: LoadSplatFile metin2_map_c3\001002\tile.raw 1017 04:40:54732 :: CTerrain::RAW_AllocateSplats 4
+1017 04:40:54733 :: CTerrain::LoadShadowTexture 1 ms
+1017 04:40:54733 :: LoadShadowMap metin2_map_c3\001002\shadowmap.raw 1017 04:40:54733 :: 0 ms
+1017 04:40:54734 :: CTerrain::LoadMiniMapTexture 1 ms
+1017 04:40:54735 :: CMapOutdoor::LoadTerrain 9
+1017 04:40:54735 :: CMapOutdoor::LoadArea1 0
+1017 04:40:54750 :: CMapOutdoor::LoadArea2 15
+1017 04:40:54751 :: CMapOutdoor::LoadArea3 0
+1017 04:40:54751 :: LoadWaterMapFile metin2_map_c3\002002\water.wtr 0
+1017 04:40:54752 :: LoadRawHeightMapFile metin2_map_c3\002002\height.raw 1017 04:40:54753 :: LoadHeightMap::CalculateNormal 1 ms
+1017 04:40:54753 :: LoadAttrMapFile metin2_map_c3\002002\attr.atr 1017 04:40:54754 :: 0
+1017 04:40:54754 :: LoadSplatFile metin2_map_c3\002002\tile.raw 1017 04:40:54758 :: CTerrain::RAW_AllocateSplats 4
+1017 04:40:54758 :: CTerrain::LoadShadowTexture 0 ms
+1017 04:40:54759 :: LoadShadowMap metin2_map_c3\002002\shadowmap.raw 1017 04:40:54759 :: 0 ms
+1017 04:40:54760 :: CTerrain::LoadMiniMapTexture 1 ms
+1017 04:40:54761 :: CMapOutdoor::LoadTerrain 10
+1017 04:40:54761 :: CMapOutdoor::LoadArea1 0
+1017 04:40:54767 :: CMapOutdoor::LoadArea2 6
+1017 04:40:54767 :: CMapOutdoor::LoadArea3 0
+1017 04:40:54768 :: LoadWaterMapFile metin2_map_c3\003002\water.wtr 0
+1017 04:40:54768 :: LoadRawHeightMapFile metin2_map_c3\003002\height.raw 1017 04:40:54770 :: LoadHeightMap::CalculateNormal 2 ms
+1017 04:40:54770 :: LoadAttrMapFile metin2_map_c3\003002\attr.atr 1017 04:40:54770 :: 0
+1017 04:40:54770 :: LoadSplatFile metin2_map_c3\003002\tile.raw 1017 04:40:54773 :: CTerrain::RAW_AllocateSplats 3
+1017 04:40:54774 :: CTerrain::LoadShadowTexture 1 ms
+1017 04:40:54774 :: LoadShadowMap metin2_map_c3\003002\shadowmap.raw 1017 04:40:54774 :: 0 ms
+1017 04:40:54775 :: CTerrain::LoadMiniMapTexture 1 ms
+1017 04:40:54776 :: CMapOutdoor::LoadTerrain 9
+1017 04:40:54776 :: CMapOutdoor::LoadArea1 0
+1017 04:40:54781 :: CMapOutdoor::LoadArea2 5
+1017 04:40:54781 :: CMapOutdoor::LoadArea3 0
+1017 04:40:54781 :: Update::Load spent 479 ms
+
+1017 04:40:54791 :: SetDropSoundFile 0 : sound/ui/drop.wav
+1017 04:40:54792 :: SetDropSoundFile 4 : sound/ui/equip_ring_amulet.wav
+1017 04:40:54792 :: SetDropSoundFile 1 : sound/ui/equip_metal_armor.wav
+1017 04:40:54792 :: SetDropSoundFile 3 : sound/ui/equip_bow.wav
+1017 04:40:54792 :: SetDropSoundFile 2 : sound/ui/equip_metal_weapon.wav
+1017 04:40:54808 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/appear_die/monster_appear.mss]
+1017 04:40:54811 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/appear_die/monster_die.mss]
+1017 04:40:54821 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/hit/blow_electric/light_1_weapon.mss]
+1017 04:40:54825 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/hit/blow_electric/light_1_blow.mss]
+1017 04:40:54829 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/hit/blow_electric/light_1_body.mss]
+1017 04:40:54837 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/empire/empire_a.mss]
+1017 04:40:54838 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/empire/empire_b.mss]
+1017 04:40:54839 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/empire/empire_c.mss]
+1017 04:40:54842 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/geom_sword_loop.mss]
+1017 04:40:54846 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/geom_spear_loop.mss]
+1017 04:40:54855 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/hit/blow_poison/poison_loop.mss]
+1017 04:40:54858 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/affect/slow.mss]
+1017 04:40:54861 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/stun/stun_loop.mss]
+1017 04:40:54862 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/ready/ready.mss]
+1017 04:40:54866 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/gyeokgongjang_loop.mss]
+1017 04:40:54871 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/gyeonggong_loop.mss]
+1017 04:40:54874 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/gwigeom_loop.mss]
+1017 04:40:54878 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/fear_loop.mss]
+1017 04:40:54881 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/jumagap_loop.mss]
+1017 04:40:54885 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/effect/3hosin_loop.mss]
+1017 04:40:54888 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/effect/boho_loop.mss]
+1017 04:40:54892 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/effect/10kwaesok_loop.mss]
+1017 04:40:54898 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/heuksin_loop.mss]
+1017 04:40:54902 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/muyeong_loop.mss]
+1017 04:40:54904 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/hit/blow_flame/flame_loop.mss]
+1017 04:40:54907 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/effect/6gicheon_hand.mss]
+1017 04:40:54911 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/effect/jeungryeok_hand.mss]
+1017 04:40:54913 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/pabeop_loop.mss]
+1017 04:40:54914 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/guild_war_flag/flag_red.mss]
+1017 04:40:54915 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/guild_war_flag/flag_blue.mss]
+1017 04:40:54916 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/guild_war_flag/flag_yellow.mss]
+1017 04:40:54917 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/common/effect/sword/sword_7.mss]
+1017 04:40:54919 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/common/effect/sword/sword_8.mss]
+1017 04:40:54921 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/common/effect/sword/sword_9.mss]
+1017 04:40:54923 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/common/effect/sword/sword_7_b.mss]
+1017 04:40:54928 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/common/effect/sword/sword_8_b.mss]
+1017 04:40:54932 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/common/effect/sword/sword_9_b.mss]
+1017 04:40:54933 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/common/effect/sword/sword_7_f.mss]
+1017 04:40:54935 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/common/effect/sword/sword_8_f.mss]
+1017 04:40:54937 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/common/effect/sword/sword_9_f.mss]
+1017 04:40:54938 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/common/effect/sword/sword_7_s.mss]
+1017 04:40:54940 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/common/effect/sword/sword_8_s.mss]
+1017 04:40:54943 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/common/effect/sword/sword_9_s.mss]
+1017 04:40:54944 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/common/effect/armor/armor_7.mss]
+1017 04:40:54946 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/common/effect/armor/armor_8.mss]
+1017 04:40:54948 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/common/effect/armor/armor_9.mss]
+1017 04:40:54950 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/common/effect/armor/armor-4-2-1.mss]
+1017 04:40:54951 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/common/effect/armor/armor-4-2-2.mss]
+1017 04:40:54954 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/gathering/ga_center_small_yellow.mss]
+1017 04:40:54955 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/gathering/ga_piece_yellow2.mss]
+1017 04:40:54958 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/gathering/ga_center_small_red.mss]
+1017 04:40:54960 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/gathering/ga_piece_red.mss]
+1017 04:40:54963 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/gathering/ga_center.mss]
+1017 04:40:54966 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/gathering/ga_spirit_red.mss]
+1017 04:40:54967 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/gathering/ga_center_small_blue_warrior.mss]
+1017 04:40:54970 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/gathering/ga_center_small_blue.mss]
+1017 04:40:54973 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/gathering/ga_piece_blue.mss]
+1017 04:40:54976 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/gathering/ga_spirit_blue.mss]
+1017 04:40:55039 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/effect/pokroe_c.mss]
+1017 04:40:55040 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/effect/pokroe_b.mss]
+1017 04:40:55054 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/muyeongfly.mss]
+1017 04:40:55057 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/emoticon/sweat.mss]
+1017 04:40:55059 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/emoticon/money.mss]
+1017 04:40:55062 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/emoticon/happy.mss]
+1017 04:40:55064 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/emoticon/love_s.mss]
+1017 04:40:55067 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/emoticon/love_l.mss]
+1017 04:40:55071 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/emoticon/angry.mss]
+1017 04:40:55075 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/emoticon/aha.mss]
+1017 04:40:55080 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/emoticon/gloom.mss]
+1017 04:40:55083 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/emoticon/sorry.mss]
+1017 04:40:55085 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/emoticon/!_mix_back.mss]
+1017 04:40:55087 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/emoticon/question.mss]
+1017 04:40:55090 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/emoticon/fish.mss]
+1017 04:40:55091 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/general/wait.mss]
+1017 04:40:55105 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/general/falling_stand.mss]
+1017 04:40:55110 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/general/back_falling_stand.mss]
+1017 04:40:55117 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/dig/dig.mss]
+1017 04:40:55120 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/general/wait_1.mss]
+1017 04:40:55131 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/samyeon_d.mss]
+1017 04:40:55138 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/palbang_sword.mss]
+1017 04:40:55140 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/palbang_spin.mss]
+1017 04:40:55148 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/jeongwi.mss]
+1017 04:40:55154 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/geom.mss]
+1017 04:40:55156 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/geom_sword_making.mss]
+1017 04:40:55159 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/geom-badak.mss]
+1017 04:40:55168 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/tanhwan.mss]
+1017 04:40:55173 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/gigongcham_making.mss]
+1017 04:40:55175 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/gigongcham_swing.mss]
+1017 04:40:55189 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/gyeoksantau_triple.mss]
+1017 04:40:55197 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/daejingak.mss]
+1017 04:40:55206 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/gyeokgongjang.mss]
+1017 04:40:55213 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/geompung_sword.mss]
+1017 04:40:55220 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/samyeon_2.mss]
+1017 04:40:55226 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/palbang_2_sword.mss]
+1017 04:40:55228 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/palbang_2_spin.mss]
+1017 04:40:55236 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/jeongwi_2.mss]
+1017 04:40:55239 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/geom_2_sword_making.mss]
+1017 04:40:55243 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/geom_2_badak.mss]
+1017 04:40:55250 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/tanhwan_2.mss]
+1017 04:40:55254 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/gigongcham_2_making.mss]
+1017 04:40:55257 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/gigongcham_2_swing.mss]
+1017 04:40:55269 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/gyeoksan_2.mss]
+1017 04:40:55275 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/daejingak_2.mss]
+1017 04:40:55281 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/cheongeun_2.mss]
+1017 04:40:55286 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/geompung_2_sword.mss]
+1017 04:40:55294 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/samyeon_3.mss]
+1017 04:40:55301 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/palbang_3_sword.mss]
+1017 04:40:55304 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/palbang_3_spin.mss]
+1017 04:40:55313 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/jeongwi_3.mss]
+1017 04:40:55318 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/geom_3_sword_making.mss]
+1017 04:40:55323 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/geom_3_badak.mss]
+1017 04:40:55330 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/tanhwan_3.mss]
+1017 04:40:55334 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/gigongcham_3_making.mss]
+1017 04:40:55338 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/gigongcham_3_swing.mss]
+1017 04:40:55351 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/gyeoksan_3.mss]
+1017 04:40:55357 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/daejingak_3.mss]
+1017 04:40:55364 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/cheongeun_3.mss]
+1017 04:40:55370 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/geompung_3_sword.mss]
+1017 04:40:55378 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/samyeon_4.mss]
+1017 04:40:55386 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/palbang_4_sword.mss]
+1017 04:40:55392 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/palbang_4_spin.mss]
+1017 04:40:55401 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/jeongwi_4.mss]
+1017 04:40:55408 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/geom_4_sword_making.mss]
+1017 04:40:55413 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/geom_4_badak.mss]
+1017 04:40:55420 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/tanhwan_4.mss]
+1017 04:40:55426 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/gigongcham_4_making.mss]
+1017 04:40:55430 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/gigongcham_4_swing.mss]
+1017 04:40:55444 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/gyeoksan_4.mss]
+1017 04:40:55452 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/daejingak_4.mss]
+1017 04:40:55462 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/cheongeun_4.mss]
+1017 04:40:55468 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/geompung_4_sword.mss]
+1017 04:40:55472 :: SYSERR: CResourceManager::GetResourcePointer: File not exist d:/ymir work/guild/effect/star.jpg
+1017 04:40:55472 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/guild/effect/yongsinuipi_make.mss]
+1017 04:40:55472 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/skill/guild_yongsinuipi.mss]
+1017 04:40:55478 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/guild/effect/yongsinuichukbok_make.mss]
+1017 04:40:55478 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/skill/guild_yongsinuichukbok.mss]
+1017 04:40:55481 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/guild/effect/seonghwigap_make.mss]
+1017 04:40:55482 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/skill/guild_seonghwigap.mss]
+1017 04:40:55484 :: SYSERR: CResourceManager::GetResourcePointer: File not exist D:\Ymir Work\pc\assassin\effect\16-bottom.jpg
+1017 04:40:55485 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/guild/effect/gasokhwa_make.mss]
+1017 04:40:55485 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/skill/guild_gasokhwa.mss]
+1017 04:40:55489 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/guild/effect/yongsinuibunno_make.mss]
+1017 04:40:55490 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/skill/guild_yongsinuibunno.mss]
+1017 04:40:55498 :: SYSERR: CResourceManager::GetResourcePointer: File not exist D:\Ymir Work\pc\shaman\effect\jigam.jpg
+1017 04:40:55499 :: SYSERR: CResourceManager::GetResourcePointer: File not exist D:\Ymir Work\pc\shaman\effect\w_ring.jpg
+1017 04:40:55499 :: SYSERR: CResourceManager::GetResourcePointer: File not exist D:\Ymir Work\pc\shaman\effect\white_sphere.jpg
+1017 04:40:55499 :: SYSERR: CResourceManager::GetResourcePointer: File not exist D:\Ymir Work\pc\shaman\effect\wind.jpg
+1017 04:40:55499 :: SYSERR: CResourceManager::GetResourcePointer: File not exist D:\Ymir Work\pc\shaman\effect\W_star.jpg
+1017 04:40:55500 :: SYSERR: CResourceManager::GetResourcePointer: File not exist D:\Ymir Work\pc\shaman\effect\jigam_ring.jpg
+1017 04:40:55500 :: SYSERR: CResourceManager::GetResourcePointer: File not exist D:\Ymir Work\pc\shaman\effect\gyeokgong_triple_loop_2.jpg
+1017 04:40:55500 :: SYSERR: CResourceManager::GetResourcePointer: File not exist D:\Ymir Work\pc\shaman\effect\noe_w_ring.jpg
+1017 04:40:55500 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/guild/effect/jumunsul_make.mss]
+1017 04:40:55501 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/skill/guild_jumunsul.mss]
+1017 04:40:55502 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/action/dance_1.mss]
+1017 04:40:55502 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/action/dance_2.mss]
+1017 04:40:55502 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/action/dance_3.mss]
+1017 04:40:55503 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/action/dance_4.mss]
+1017 04:40:55503 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/action/dance_5.mss]
+1017 04:40:55503 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/action/dance_6.mss]
+1017 04:40:55504 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/action/congratulation.mss]
+1017 04:40:55504 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/action/forgive.mss]
+1017 04:40:55504 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/action/angry.mss]
+1017 04:40:55505 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/action/attractive.mss]
+1017 04:40:55505 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/action/sad.mss]
+1017 04:40:55505 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/action/shy.mss]
+1017 04:40:55506 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/action/cheerup.mss]
+1017 04:40:55506 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/action/banter.mss]
+1017 04:40:55506 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/action/joy.mss]
+1017 04:40:55510 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/wedding/wait.mss]
+1017 04:40:55511 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/wedding/walk.mss]
+1017 04:40:55511 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/onehand_sword/wait.mss]
+1017 04:40:55514 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/onehand_sword/wait_1.mss]
+1017 04:40:55543 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/twohand_sword/wait.mss]
+1017 04:40:55545 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/twohand_sword/wait_1.mss]
+1017 04:40:55580 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/fishing/wait.mss]
+1017 04:40:55587 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/fishing/fishing_wait.mss]
+1017 04:40:55591 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/fishing/fishing_react.mss]
+1017 04:40:55598 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/horse/wait.mss]
+1017 04:40:55599 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/horse/wait_1.mss]
+1017 04:40:55602 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/horse/wait_2.mss]
+1017 04:40:55624 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/common/effect/horse_charge.mss]
+1017 04:40:55644 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/effect/noegeomdorae.mss]
+1017 04:40:55663 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/warrior/general/wait.mss]
+1017 04:40:55678 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/warrior/general/falling_stand.mss]
+1017 04:40:55682 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/warrior/general/back_falling_stand.mss]
+1017 04:40:55691 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/warrior/general/wait_1.mss]
+1017 04:40:55762 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/warrior/skill/guild_yongsinuipi.mss]
+1017 04:40:55766 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/warrior/skill/guild_yongsinuichukbok.mss]
+1017 04:40:55766 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/warrior/skill/guild_seonghwigap.mss]
+1017 04:40:55767 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/warrior/skill/guild_gasokhwa.mss]
+1017 04:40:55767 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/warrior/skill/guild_yongsinuibunno.mss]
+1017 04:40:55768 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/warrior/skill/guild_jumunsul.mss]
+1017 04:40:55769 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/warrior/action/dance_1.mss]
+1017 04:40:55769 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/warrior/action/dance_2.mss]
+1017 04:40:55770 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/warrior/action/dance_3.mss]
+1017 04:40:55770 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/warrior/action/dance_4.mss]
+1017 04:40:55770 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/warrior/action/dance_5.mss]
+1017 04:40:55771 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/warrior/action/dance_6.mss]
+1017 04:40:55771 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/warrior/action/congratulation.mss]
+1017 04:40:55772 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/warrior/action/forgive.mss]
+1017 04:40:55772 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/warrior/action/angry.mss]
+1017 04:40:55773 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/warrior/action/attractive.mss]
+1017 04:40:55773 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/warrior/action/sad.mss]
+1017 04:40:55773 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/warrior/action/shy.mss]
+1017 04:40:55774 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/warrior/action/cheerup.mss]
+1017 04:40:55774 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/warrior/action/banter.mss]
+1017 04:40:55774 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/warrior/action/joy.mss]
+1017 04:40:55779 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/warrior/wedding/wait.mss]
+1017 04:40:55779 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/warrior/wedding/walk.mss]
+1017 04:40:55779 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/warrior/onehand_sword/wait.mss]
+1017 04:40:55781 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/warrior/onehand_sword/wait_1.mss]
+1017 04:40:55814 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/warrior/twohand_sword/wait.mss]
+1017 04:40:55817 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/warrior/twohand_sword/wait_1.mss]
+1017 04:40:55852 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/warrior/fishing/wait.mss]
+1017 04:40:55861 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/warrior/fishing/fishing_wait.mss]
+1017 04:40:55865 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/warrior/fishing/fishing_react.mss]
+1017 04:40:55873 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/warrior/horse/wait.mss]
+1017 04:40:55875 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/warrior/horse/wait_1.mss]
+1017 04:40:55877 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/warrior/horse/wait_2.mss]
+1017 04:40:55916 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/general/wait.mss]
+1017 04:40:55928 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/general/falling_stand.mss]
+1017 04:40:55932 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/general/back_falling_stand.mss]
+1017 04:40:55940 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/general/wait_1.mss]
+1017 04:40:55953 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/amseup.mss]
+1017 04:40:55954 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/amseup_fallow.mss]
+1017 04:40:55958 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/amseup_blow.mss]
+1017 04:40:55962 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/gungsintanyeong_start.mss]
+1017 04:40:55965 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/gungsintanyeong_end.mss]
+1017 04:40:55968 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/gungsintanyeong_blow.mss]
+1017 04:40:55976 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/charyunsal.mss]
+1017 04:40:55978 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/charyunsal_foot.mss]
+1017 04:40:55983 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/eunhyeongbeop.mss]
+1017 04:40:55988 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/poison.mss]
+1017 04:40:55988 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/skill/sangong.mss]
+1017 04:40:55993 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/gwangyeoksul_energy.mss]
+1017 04:40:55996 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/gwangyeoksul_arrowenergy.mss]
+1017 04:40:56003 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/hwajopa_energy.mss]
+1017 04:40:56005 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/hwajopa_arrowenergy.mss]
+1017 04:40:56009 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/gyeonggong_start.mss]
+1017 04:40:56014 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/yeonsa_arrowenergy.mss]
+1017 04:40:56015 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/skill/dokgigung.mss]
+1017 04:40:56018 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/amseup_2.mss]
+1017 04:40:56019 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/amseup_2_fallow.mss]
+1017 04:40:56024 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/amseup_2_blow.mss]
+1017 04:40:56027 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/gungsintanyeong_2_start.mss]
+1017 04:40:56029 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/gungsintanyeong_2_end.mss]
+1017 04:40:56033 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/gungsintanyeong_2_blow.mss]
+1017 04:40:56040 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/charyunsal_2.mss]
+1017 04:40:56044 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/charyunsal_2_foot.mss]
+1017 04:40:56048 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/eunhyeongbeop_2.mss]
+1017 04:40:56053 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/dokgigung_2.mss]
+1017 04:40:56058 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/gwangyeoksul_2_energy.mss]
+1017 04:40:56061 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/gwangyeoksul_2_arrowenergy.mss]
+1017 04:40:56065 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/hwajopa_2_energy.mss]
+1017 04:40:56067 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/hwajopa_2_arrowenergy.mss]
+1017 04:40:56069 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/gyeonggong_2_start.mss]
+1017 04:40:56073 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/yeonsa_2_arrowenergy.mss]
+1017 04:40:56080 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/amseup_3.mss]
+1017 04:40:56083 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/amseup_3_fallow.mss]
+1017 04:40:56088 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/amseup_3_blow.mss]
+1017 04:40:56093 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/gungsintanyeong_3_start.mss]
+1017 04:40:56099 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/gungsintanyeong_3_blow.mss]
+1017 04:40:56107 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/charyunsal_3.mss]
+1017 04:40:56111 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/charyunsal_3_foot.mss]
+1017 04:40:56117 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/eunhyeongbeop_3.mss]
+1017 04:40:56123 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/dokgigung_3.mss]
+1017 04:40:56129 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/gwangyeoksul_3_energy.mss]
+1017 04:40:56133 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/gwangyeoksul_3_arrowenergy.mss]
+1017 04:40:56139 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/hwajopa_3_energy.mss]
+1017 04:40:56143 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/hwajopa_3_arrowenergy.mss]
+1017 04:40:56145 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/gyeonggong_3_start.mss]
+1017 04:40:56150 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/yeonsa_3_arrowenergy.mss]
+1017 04:40:56157 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/amseup_4.mss]
+1017 04:40:56158 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/amseup_4_fallow.mss]
+1017 04:40:56164 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/amseup_4_blow.mss]
+1017 04:40:56169 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/gungsintanyeong_4_start.mss]
+1017 04:40:56173 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/gungsintanyeong_4_end.mss]
+1017 04:40:56178 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/gungsintanyeong_4_blow.mss]
+1017 04:40:56187 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/charyunsal_4.mss]
+1017 04:40:56191 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/charyunsal_4_foot.mss]
+1017 04:40:56197 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/eunhyeongbeop_4.mss]
+1017 04:40:56202 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/dokgigung_4.mss]
+1017 04:40:56210 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/gwangyeoksul_4_energy.mss]
+1017 04:40:56216 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/gwangyeoksul_4_arrowenergy.mss]
+1017 04:40:56221 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/hwajopa_4_energy.mss]
+1017 04:40:56226 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/hwajopa_4_arrowenergy.mss]
+1017 04:40:56229 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/gyeonggong_4_start.mss]
+1017 04:40:56236 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/yeonsa_4_arrowenergy.mss]
+1017 04:40:56237 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/skill/guild_yongsinuipi.mss]
+1017 04:40:56239 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/skill/guild_yongsinuichukbok.mss]
+1017 04:40:56239 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/skill/guild_seonghwigap.mss]
+1017 04:40:56240 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/skill/guild_gasokhwa.mss]
+1017 04:40:56240 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/skill/guild_yongsinuibunno.mss]
+1017 04:40:56240 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/skill/guild_jumunsul.mss]
+1017 04:40:56242 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/action/dance_1.mss]
+1017 04:40:56242 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/action/dance_2.mss]
+1017 04:40:56242 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/action/dance_3.mss]
+1017 04:40:56243 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/action/dance_4.mss]
+1017 04:40:56243 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/action/dance_5.mss]
+1017 04:40:56243 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/action/dance_6.mss]
+1017 04:40:56244 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/action/congratulation.mss]
+1017 04:40:56244 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/action/forgive.mss]
+1017 04:40:56245 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/action/angry.mss]
+1017 04:40:56245 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/action/attractive.mss]
+1017 04:40:56245 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/action/sad.mss]
+1017 04:40:56246 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/action/shy.mss]
+1017 04:40:56246 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/action/cheerup.mss]
+1017 04:40:56246 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/action/banter.mss]
+1017 04:40:56247 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/action/joy.mss]
+1017 04:40:56248 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/action/kiss_with_assassin.mss]
+1017 04:40:56249 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/action/kiss_with_shaman.mss]
+1017 04:40:56249 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/action/french_kiss_with_assassin.mss]
+1017 04:40:56250 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/action/french_kiss_with_shaman.mss]
+1017 04:40:56251 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/wedding/wait.mss]
+1017 04:40:56251 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/wedding/walk.mss]
+1017 04:40:56252 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/onehand_sword/wait.mss]
+1017 04:40:56253 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/onehand_sword/wait_1.mss]
+1017 04:40:56284 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/dualhand_sword/wait.mss]
+1017 04:40:56285 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/dualhand_sword/wait_1.mss]
+1017 04:40:56317 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/bow/wait.mss]
+1017 04:40:56319 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/bow/wait_1.mss]
+1017 04:40:56322 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/bow/walk.mss]
+1017 04:40:56334 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/fishing/wait.mss]
+1017 04:40:56341 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/fishing/fishing_wait.mss]
+1017 04:40:56345 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/fishing/fishing_react.mss]
+1017 04:40:56352 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/horse/wait.mss]
+1017 04:40:56353 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/horse/wait_1.mss]
+1017 04:40:56355 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/horse/wait_2.mss]
+1017 04:40:56387 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/horse_onehand_sword_splash.mss]
+1017 04:40:56405 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/effect/horse_onehand_sword_splash_making.mss]
+1017 04:40:56406 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/horse_bow/wait.mss]
+1017 04:40:56408 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/horse_bow/wait_1.mss]
+1017 04:40:56410 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/horse_bow/wait_2.mss]
+1017 04:40:56413 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/horse_bow/run.mss]
+1017 04:40:56422 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/assassin/general/wait.mss]
+1017 04:40:56435 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/assassin/general/falling_stand.mss]
+1017 04:40:56440 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/assassin/general/back_falling_stand.mss]
+1017 04:40:56449 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/assassin/general/wait_1.mss]
+1017 04:40:56500 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/assassin/skill/guild_yongsinuipi.mss]
+1017 04:40:56501 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/assassin/skill/guild_yongsinuichukbok.mss]
+1017 04:40:56502 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/assassin/skill/guild_seonghwigap.mss]
+1017 04:40:56502 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/assassin/skill/guild_gasokhwa.mss]
+1017 04:40:56502 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/assassin/skill/guild_yongsinuibunno.mss]
+1017 04:40:56504 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/assassin/skill/guild_jumunsul.mss]
+1017 04:40:56505 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/assassin/action/slap_hurt.mss]
+1017 04:40:56505 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/assassin/action/dance_1.mss]
+1017 04:40:56505 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/assassin/action/dance_2.mss]
+1017 04:40:56506 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/assassin/action/dance_3.mss]
+1017 04:40:56506 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/assassin/action/dance_4.mss]
+1017 04:40:56507 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/assassin/action/dance_5.mss]
+1017 04:40:56507 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/assassin/action/dance_6.mss]
+1017 04:40:56507 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/assassin/action/congratulation.mss]
+1017 04:40:56508 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/assassin/action/forgive.mss]
+1017 04:40:56508 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/assassin/action/angry.mss]
+1017 04:40:56508 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/assassin/action/attractive.mss]
+1017 04:40:56509 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/assassin/action/sad.mss]
+1017 04:40:56510 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/assassin/action/shy.mss]
+1017 04:40:56510 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/assassin/action/cheerup.mss]
+1017 04:40:56510 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/assassin/action/banter.mss]
+1017 04:40:56511 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/assassin/action/joy.mss]
+1017 04:40:56515 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/assassin/wedding/wait.mss]
+1017 04:40:56516 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/assassin/wedding/walk.mss]
+1017 04:40:56516 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/assassin/onehand_sword/wait.mss]
+1017 04:40:56517 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/assassin/onehand_sword/wait_1.mss]
+1017 04:40:56549 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/assassin/dualhand_sword/wait.mss]
+1017 04:40:56551 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/assassin/dualhand_sword/wait_1.mss]
+1017 04:40:56583 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/assassin/bow/wait.mss]
+1017 04:40:56585 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/assassin/bow/wait_1.mss]
+1017 04:40:56588 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/assassin/bow/walk.mss]
+1017 04:40:56600 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/assassin/fishing/wait.mss]
+1017 04:40:56608 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/assassin/fishing/fishing_wait.mss]
+1017 04:40:56612 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/assassin/fishing/fishing_react.mss]
+1017 04:40:56617 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/assassin/horse/wait.mss]
+1017 04:40:56619 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/assassin/horse/wait_1.mss]
+1017 04:40:56621 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/assassin/horse/wait_2.mss]
+1017 04:40:56665 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/assassin/horse_bow/wait.mss]
+1017 04:40:56667 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/assassin/horse_bow/wait_1.mss]
+1017 04:40:56669 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/assassin/horse_bow/wait_2.mss]
+1017 04:40:56672 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/assassin/horse_bow/run.mss]
+1017 04:40:56685 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/general/wait.mss]
+1017 04:40:56701 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/general/falling_stand.mss]
+1017 04:40:56706 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/general/back_falling_stand.mss]
+1017 04:40:56732 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/yonggwonpa.mss]
+1017 04:40:56738 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/gwigeom.mss]
+1017 04:40:56741 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/gwigeom_make.mss]
+1017 04:40:56749 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/fear_making.mss]
+1017 04:40:56758 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/jumagap.mss]
+1017 04:40:56766 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/pabeopsul_making.mss]
+1017 04:40:56773 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/maryeong_making.mss]
+1017 04:40:56781 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/hwayeom.mss]
+1017 04:40:56791 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/muyeong_make.mss]
+1017 04:40:56798 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/tusok_making.mss]
+1017 04:40:56800 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/geomhwagyeokhand_fallow.mss]
+1017 04:40:56802 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/geomhwagyeokhand.mss]
+1017 04:40:56802 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/skill/mahwan.mss]
+1017 04:40:56811 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/swaeryeong_2.mss]
+1017 04:40:56817 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/yonggwonpa_2.mss]
+1017 04:40:56821 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/gwigeom_2.mss]
+1017 04:40:56827 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/fear_2_making.mss]
+1017 04:40:56833 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/jumagap_2_making.mss]
+1017 04:40:56839 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/pabeopsul_2_making.mss]
+1017 04:40:56844 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/maryeong_2_making.mss]
+1017 04:40:56853 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/hwayeom_2.mss]
+1017 04:40:56862 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/muyeong_2_making.mss]
+1017 04:40:56866 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/tusok_2_making.mss]
+1017 04:40:56867 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/geomhwagyeokhand_2_fallow.mss]
+1017 04:40:56870 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/geomhwagyeokhand_2.mss]
+1017 04:40:56878 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/swaeryeong_3.mss]
+1017 04:40:56885 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/yonggwonpa_3.mss]
+1017 04:40:56891 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/gwigeom_3.mss]
+1017 04:40:56900 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/fear_3_making.mss]
+1017 04:40:56909 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/jumagap_4_making.mss]
+1017 04:40:56915 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/pabeopsul_3_making.mss]
+1017 04:40:56920 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/maryeong_3_making.mss]
+1017 04:40:56930 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/hwayeom_3.mss]
+1017 04:40:56940 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/muyeong_3_making.mss]
+1017 04:40:56945 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/tusok_3_making.mss]
+1017 04:40:56947 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/geomhwagyeokhand_3_fallow.mss]
+1017 04:40:56951 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/geomhwagyeokhand_3.mss]
+1017 04:40:56958 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/swaeryeong_4.mss]
+1017 04:40:56968 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/yonggwonpa_4.mss]
+1017 04:40:56977 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/gwigeom_4.mss]
+1017 04:40:56988 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/fear_4_making.mss]
+1017 04:40:56997 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/jumagap_3_making.mss]
+1017 04:40:57003 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/pabeopsul_4_making.mss]
+1017 04:40:57008 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/maryeong_4_making.mss]
+1017 04:40:57024 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/hwayeom_4.mss]
+1017 04:40:57033 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/muyeong_4_making.mss]
+1017 04:40:57038 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/tusok_4_making.mss]
+1017 04:40:57040 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/geomhwagyeokhand_4_fallow.mss]
+1017 04:40:57043 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/geomhwagyeokhand_4.mss]
+1017 04:40:57043 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/skill/guild_yongsinuipi.mss]
+1017 04:40:57044 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/skill/guild_yongsinuichukbok.mss]
+1017 04:40:57044 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/skill/guild_seonghwigap.mss]
+1017 04:40:57045 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/skill/guild_gasokhwa.mss]
+1017 04:40:57045 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/skill/guild_yongsinuibunno.mss]
+1017 04:40:57046 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/skill/guild_jumunsul.mss]
+1017 04:40:57047 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/action/dance_1.mss]
+1017 04:40:57047 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/action/dance_2.mss]
+1017 04:40:57047 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/action/dance_3.mss]
+1017 04:40:57048 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/action/dance_4.mss]
+1017 04:40:57048 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/action/dance_5.mss]
+1017 04:40:57048 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/action/dance_6.mss]
+1017 04:40:57049 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/action/congratulation.mss]
+1017 04:40:57049 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/action/forgive.mss]
+1017 04:40:57049 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/action/angry.mss]
+1017 04:40:57050 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/action/attractive.mss]
+1017 04:40:57050 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/action/sad.mss]
+1017 04:40:57051 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/action/shy.mss]
+1017 04:40:57051 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/action/cheerup.mss]
+1017 04:40:57052 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/action/banter.mss]
+1017 04:40:57052 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/action/joy.mss]
+1017 04:40:57053 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/action/kiss_with_warrior.mss]
+1017 04:40:57054 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/action/kiss_with_sura.mss]
+1017 04:40:57054 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/action/french_kiss_with_warrior.mss]
+1017 04:40:57055 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/action/french_kiss_with_sura.mss]
+1017 04:40:57056 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/wedding/wait.mss]
+1017 04:40:57057 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/wedding/walk.mss]
+1017 04:40:57057 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/onehand_sword/wait.mss]
+1017 04:40:57089 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/fishing/wait.mss]
+1017 04:40:57098 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/fishing/fishing_wait.mss]
+1017 04:40:57102 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/fishing/fishing_react.mss]
+1017 04:40:57112 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/horse/wait.mss]
+1017 04:40:57113 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/horse/wait_1.mss]
+1017 04:40:57116 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/horse/wait_2.mss]
+1017 04:40:57135 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/horse_onehand_sword_splash_energy.mss]
+1017 04:40:57141 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/effect/horse_onehand_sword_splash_blow.mss]
+1017 04:40:57157 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/sura/general/wait.mss]
+1017 04:40:57175 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/sura/general/falling_stand.mss]
+1017 04:40:57180 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/sura/general/back_falling_stand.mss]
+1017 04:40:57246 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/sura/skill/guild_yongsinuipi.mss]
+1017 04:40:57247 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/sura/skill/guild_yongsinuichukbok.mss]
+1017 04:40:57248 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/sura/skill/guild_seonghwigap.mss]
+1017 04:40:57248 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/sura/skill/guild_gasokhwa.mss]
+1017 04:40:57249 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/sura/skill/guild_yongsinuibunno.mss]
+1017 04:40:57249 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/sura/skill/guild_jumunsul.mss]
+1017 04:40:57250 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/sura/action/slap_hurt.mss]
+1017 04:40:57250 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/sura/action/dance_1.mss]
+1017 04:40:57251 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/sura/action/dance_2.mss]
+1017 04:40:57251 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/sura/action/dance_3.mss]
+1017 04:40:57252 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/sura/action/dance_4.mss]
+1017 04:40:57252 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/sura/action/dance_5.mss]
+1017 04:40:57253 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/sura/action/dance_6.mss]
+1017 04:40:57253 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/sura/action/congratulation.mss]
+1017 04:40:57253 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/sura/action/forgive.mss]
+1017 04:40:57254 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/sura/action/angry.mss]
+1017 04:40:57254 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/sura/action/attractive.mss]
+1017 04:40:57255 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/sura/action/sad.mss]
+1017 04:40:57255 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/sura/action/shy.mss]
+1017 04:40:57255 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/sura/action/cheerup.mss]
+1017 04:40:57256 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/sura/action/banter.mss]
+1017 04:40:57257 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/sura/action/joy.mss]
+1017 04:40:57262 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/sura/wedding/wait.mss]
+1017 04:40:57262 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/sura/wedding/walk.mss]
+1017 04:40:57263 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/sura/onehand_sword/wait.mss]
+1017 04:40:57299 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/sura/fishing/wait.mss]
+1017 04:40:57309 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/sura/fishing/fishing_wait.mss]
+1017 04:40:57315 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/sura/fishing/fishing_react.mss]
+1017 04:40:57326 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/sura/horse/wait.mss]
+1017 04:40:57327 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/sura/horse/wait_1.mss]
+1017 04:40:57330 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/sura/horse/wait_2.mss]
+1017 04:40:57361 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/general/wait.mss]
+1017 04:40:57375 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/general/falling_stand.mss]
+1017 04:40:57380 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/general/back_falling_stand.mss]
+1017 04:40:57395 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/action/dance_1.mss]
+1017 04:40:57396 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/action/dance_2.mss]
+1017 04:40:57396 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/action/dance_3.mss]
+1017 04:40:57396 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/action/dance_4.mss]
+1017 04:40:57397 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/action/dance_5.mss]
+1017 04:40:57397 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/action/dance_6.mss]
+1017 04:40:57398 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/action/congratulation.mss]
+1017 04:40:57398 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/action/forgive.mss]
+1017 04:40:57398 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/action/angry.mss]
+1017 04:40:57399 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/action/attractive.mss]
+1017 04:40:57399 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/action/sad.mss]
+1017 04:40:57399 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/action/shy.mss]
+1017 04:40:57400 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/action/cheerup.mss]
+1017 04:40:57400 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/action/banter.mss]
+1017 04:40:57400 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/action/joy.mss]
+1017 04:40:57403 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/action/kiss_with_assassin.mss]
+1017 04:40:57403 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/action/kiss_with_shaman.mss]
+1017 04:40:57404 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/action/french_kiss_with_assassin.mss]
+1017 04:40:57405 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/action/french_kiss_with_shaman.mss]
+1017 04:40:57406 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/wedding/wait.mss]
+1017 04:40:57407 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/wedding/walk.mss]
+1017 04:40:57407 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/fan/wait.mss]
+1017 04:40:57441 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/bell/wait.mss]
+1017 04:40:57480 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/effect/1bipamaking.mss]
+1017 04:40:57487 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/effect/yongpa_a.mss]
+1017 04:40:57490 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/effect/noegem_boom.mss]
+1017 04:40:57499 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/effect/paeryong.mss]
+1017 04:40:57508 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/effect/3hosin_making.mss]
+1017 04:40:57515 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/effect/boho_making.mss]
+1017 04:40:57520 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/effect/6gicheon_making.mss]
+1017 04:40:57526 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/effect/noejeon_making.mss]
+1017 04:40:57536 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/effect/pokroe_a.mss]
+1017 04:40:57539 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/effect/2jeongeop_making.mss]
+1017 04:40:57541 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/effect/10kwaesok_making.mss]
+1017 04:40:57544 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/effect/jeungryeok_making.mss]
+1017 04:40:57548 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/effect/bipabu_2_making.mss]
+1017 04:40:57553 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/effect/yongpa_2_head.mss]
+1017 04:40:57564 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/effect/paeryong_2.mss]
+1017 04:40:57572 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/effect/noejeon_2_making.mss]
+1017 04:40:57582 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/effect/pokroe_2_making.mss]
+1017 04:40:57590 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/effect/bipabu_3_making.mss]
+1017 04:40:57595 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/effect/yongpa_3_head.mss]
+1017 04:40:57610 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/effect/paeryong_3.mss]
+1017 04:40:57619 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/effect/noejeon_3_making.mss]
+1017 04:40:57628 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/effect/pokroe_3_making.mss]
+1017 04:40:57637 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/effect/bipabu_4_making.mss]
+1017 04:40:57642 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/effect/yongpa_4_head.mss]
+1017 04:40:57663 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/effect/paeryong_4.mss]
+1017 04:40:57666 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/effect/3hosin_making_4.mss]
+1017 04:40:57669 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/effect/boho_making_4.mss]
+1017 04:40:57671 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/effect/6gicheon_making_4.mss]
+1017 04:40:57678 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/effect/noejeon_4_making.mss]
+1017 04:40:57687 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/effect/pokroe_4_making.mss]
+1017 04:40:57690 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/effect/10kwaesok_making_4.mss]
+1017 04:40:57693 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/effect/jeungryeok_making_4.mss]
+1017 04:40:57693 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/skill/guild_yongsinuipi.mss]
+1017 04:40:57694 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/skill/guild_yongsinuichukbok.mss]
+1017 04:40:57694 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/skill/guild_seonghwigap.mss]
+1017 04:40:57695 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/skill/guild_gasokhwa.mss]
+1017 04:40:57695 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/skill/guild_yongsinuibunno.mss]
+1017 04:40:57696 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/skill/guild_jumunsul.mss]
+1017 04:40:57696 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/fishing/wait.mss]
+1017 04:40:57704 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/fishing/fishing_wait.mss]
+1017 04:40:57708 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/fishing/fishing_react.mss]
+1017 04:40:57715 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/horse/wait.mss]
+1017 04:40:57717 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/horse/wait_1.mss]
+1017 04:40:57719 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/horse/wait_2.mss]
+1017 04:40:57766 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/shaman/general/wait.mss]
+1017 04:40:57780 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/shaman/general/falling_stand.mss]
+1017 04:40:57784 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/shaman/general/back_falling_stand.mss]
+1017 04:40:57800 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/shaman/action/slap_hurt.mss]
+1017 04:40:57801 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/shaman/action/dance_1.mss]
+1017 04:40:57801 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/shaman/action/dance_2.mss]
+1017 04:40:57802 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/shaman/action/dance_3.mss]
+1017 04:40:57802 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/shaman/action/dance_4.mss]
+1017 04:40:57803 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/shaman/action/dance_5.mss]
+1017 04:40:57803 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/shaman/action/dance_6.mss]
+1017 04:40:57803 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/shaman/action/congratulation.mss]
+1017 04:40:57804 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/shaman/action/forgive.mss]
+1017 04:40:57804 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/shaman/action/angry.mss]
+1017 04:40:57804 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/shaman/action/attractive.mss]
+1017 04:40:57805 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/shaman/action/sad.mss]
+1017 04:40:57805 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/shaman/action/shy.mss]
+1017 04:40:57806 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/shaman/action/cheerup.mss]
+1017 04:40:57806 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/shaman/action/banter.mss]
+1017 04:40:57806 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/shaman/action/joy.mss]
+1017 04:40:57811 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/shaman/wedding/wait.mss]
+1017 04:40:57811 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/shaman/wedding/walk.mss]
+1017 04:40:57812 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/shaman/fan/wait.mss]
+1017 04:40:57848 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/shaman/bell/wait.mss]
+1017 04:40:57921 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/shaman/skill/guild_yongsinuipi.mss]
+1017 04:40:57922 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/shaman/skill/guild_yongsinuichukbok.mss]
+1017 04:40:57923 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/shaman/skill/guild_seonghwigap.mss]
+1017 04:40:57923 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/shaman/skill/guild_gasokhwa.mss]
+1017 04:40:57924 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/shaman/skill/guild_yongsinuibunno.mss]
+1017 04:40:57924 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/shaman/skill/guild_jumunsul.mss]
+1017 04:40:57925 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/shaman/fishing/wait.mss]
+1017 04:40:57935 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/shaman/fishing/fishing_wait.mss]
+1017 04:40:57940 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/shaman/fishing/fishing_react.mss]
+1017 04:40:57954 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/shaman/horse/wait.mss]
+1017 04:40:57956 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/shaman/horse/wait_1.mss]
+1017 04:40:57958 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/shaman/horse/wait_2.mss]
+1017 04:40:58086 :: importing from pack game
+1017 04:40:58111 :: ===== Load Script File : UIScript/CharacterWindow.py1017 04:40:58111 :: 
+1017 04:40:58140 :: SYSERR: CResourceManager::GetResourcePointer: File not exist d:/ymir work/ui/game/quest/slot_button_01.sub
+1017 04:40:58140 :: SYSERR: CANNOT_FIND_PACK_FILE [d:/ymir work/ui/game/quest/slot_button_01.sub]
+1017 04:40:58140 :: CResource::Load file not exist d:\ymir work\ui\game\quest\slot_button_01.sub
+1017 04:40:58141 :: ===== Load Script File : locale/gr/ui/InventoryWindow.py1017 04:40:58141 :: 
+1017 04:40:58149 :: ===== Load Script File : UIScript/BeltInventoryWindow.py1017 04:40:58149 :: 
+1017 04:40:58153 :: ===== Load Script File : UIScript/PickMoneyDialog.py1017 04:40:58153 :: 
+1017 04:40:58155 :: ===== Load Script File : uiscript/questiondialog2.py1017 04:40:58155 :: 
+1017 04:40:58156 :: ===== Load Script File : uiscript/refinedialog.py1017 04:40:58156 :: 
+1017 04:40:58158 :: ===== Load Script File : uiscript/attachstonedialog.py1017 04:40:58158 :: 
+1017 04:40:58174 :: ENABLE_NEW_EQUIPMENT_SYSTEM1017 04:40:58174 ::  1017 04:40:58174 :: 2011017 04:40:58174 ::  1017 04:40:58174 :: 01017 04:40:58174 ::  1017 04:40:58174 :: 01017 04:40:58175 :: 
+1017 04:40:58175 :: ENABLE_NEW_EQUIPMENT_SYSTEM1017 04:40:58175 ::  1017 04:40:58175 :: 2021017 04:40:58175 ::  1017 04:40:58175 :: 01017 04:40:58175 ::  1017 04:40:58175 :: 01017 04:40:58175 :: 
+1017 04:40:58175 :: ENABLE_NEW_EQUIPMENT_SYSTEM1017 04:40:58175 ::  1017 04:40:58175 :: 2031017 04:40:58175 ::  1017 04:40:58175 :: 01017 04:40:58175 ::  1017 04:40:58175 :: 180891017 04:40:58175 :: 
+1017 04:40:58176 :: ENABLE_NEW_EQUIPMENT_SYSTEM1017 04:40:58176 ::  1017 04:40:58176 :: 2011017 04:40:58176 ::  1017 04:40:58176 :: 01017 04:40:58176 ::  1017 04:40:58177 :: 01017 04:40:58177 :: 
+1017 04:40:58177 :: ENABLE_NEW_EQUIPMENT_SYSTEM1017 04:40:58177 ::  1017 04:40:58177 :: 2021017 04:40:58177 ::  1017 04:40:58177 :: 01017 04:40:58177 ::  1017 04:40:58177 :: 01017 04:40:58177 :: 
+1017 04:40:58177 :: ENABLE_NEW_EQUIPMENT_SYSTEM1017 04:40:58177 ::  1017 04:40:58177 :: 2031017 04:40:58177 ::  1017 04:40:58177 :: 01017 04:40:58177 ::  1017 04:40:58177 :: 180891017 04:40:58177 :: 
+1017 04:40:58178 :: ===== Load Script File : locale/gr/ui/dragonsoulwindow.py1017 04:40:58178 :: 
+1017 04:40:58195 :: ===== Load Script File : uiscript/questiondialog.py1017 04:40:58195 :: 
+1017 04:40:58196 :: ===== Load Script File : uiscript/questiondialog2.py1017 04:40:58196 :: 
+1017 04:40:58197 :: ===== Load Script File : UIScript/PopupDialog.py1017 04:40:58197 :: 
+1017 04:40:58199 :: ===== Load Script File : locale/gr/ui/dragonsoulrefinewindow.py1017 04:40:58199 :: 
+1017 04:40:58206 :: ===== Load Script File : UIScript/PopupDialog.py1017 04:40:58207 :: 
+1017 04:40:58212 :: ===== Load Script File : UIScript/AtlasWindow.py1017 04:40:58212 :: 
+1017 04:40:58214 :: ===== Load Script File : UIScript/SafeboxWindow.py1017 04:40:58214 :: 
+1017 04:40:58216 :: ===== Load Script File : UIScript/PickMoneyDialog.py1017 04:40:58216 :: 
+1017 04:40:58217 :: ===== Load Script File : uiscript/popupdialog.py1017 04:40:58217 :: 
+1017 04:40:58218 :: ===== Load Script File : uiscript/changepassworddialog.py1017 04:40:58218 :: 
+1017 04:40:58221 :: ===== Load Script File : UIScript/MallWindow.py1017 04:40:58221 :: 
+1017 04:40:58227 :: ===== Load Script File : UIScript/exchangedialog.py1017 04:40:58227 :: 
+1017 04:40:58229 :: ===== Load Script File : UIScript/PickMoneyDialog.py1017 04:40:58229 :: 
+1017 04:40:58231 :: ===== Load Script File : uiscript/questiondialog2.py1017 04:40:58231 :: 
+1017 04:40:58232 :: ===== Load Script File : uiscript/questiondialog2.py1017 04:40:58232 :: 
+1017 04:40:58234 :: ===== Load Script File : UIScript/shopdialog.py1017 04:40:58234 :: 
+1017 04:40:58237 :: ===== Load Script File : uiscript/restartdialog.py1017 04:40:58237 :: 
+1017 04:40:58238 :: ===== Load Script File : locale/gr/ui/SystemDialog.py1017 04:40:58238 :: 
+1017 04:40:58240 :: ===== Load Script File : locale/gr/ui/passworddialog.py1017 04:40:58240 :: 
+1017 04:40:58242 :: ===== Load Script File : UIScript/PrivateShopBuilder.py1017 04:40:58242 :: 
+1017 04:40:58244 :: ===== Load Script File : locale/gr/ui/TaskBar.py1017 04:40:58244 :: 
+1017 04:40:58266 :: ===== Load Script File : UIScript/MouseButtonWindow.py1017 04:40:58266 :: 
+1017 04:40:58268 :: ===== Load Script File : UIScript/RightMouseButtonWindow.py1017 04:40:58269 :: 
+1017 04:40:58270 :: [DEBUG]: constInfo.IN_GAME_SHOP_ENABLE / self.rampageGauge11017 04:40:58270 ::  1017 04:40:58270 :: 11017 04:40:58270 ::  1017 04:40:58270 :: <ui.AniImageBox object at 0x06C920B0>1017 04:40:58270 :: 
+1017 04:40:58271 :: rampage_over_out1017 04:40:58271 :: 
+1017 04:40:58271 :: ===== Load Script File : locale/gr/ui/giftbox.py1017 04:40:58271 :: 
+1017 04:40:58274 :: ===== Load Script File : locale/gr/ui/ExpandedTaskBar.py1017 04:40:58274 :: 
+1017 04:40:58275 :: ===== Load Script File : locale/gr/ui/EnergyBar.py1017 04:40:58275 :: 
+1017 04:40:58277 :: ===== Load Script File : UIScript/gamewindow.py1017 04:40:58277 :: 
+1017 04:40:58279 :: ===== Load Script File : UIScript/HelpWindow.py1017 04:40:58279 :: 
+1017 04:40:58285 :: importing from pack uiWeb
+1017 04:40:58286 :: ===== Load Script File : locale/gr/ui/WebWindow.py1017 04:40:58286 :: 
+1017 04:40:58287 :: ===== Load Script File : UIScript/CubeWindow.py1017 04:40:58287 :: 
+1017 04:40:58300 :: ===== Load Script File : UIScript/CubeResultWindow.py1017 04:40:58300 :: 
+1017 04:40:58302 :: ===== Load Script File : UIScript/selectitemwindow.py1017 04:40:58302 :: 
+1017 04:40:58304 :: ===== Load Script File : UIScript/MiniMap.py1017 04:40:58304 :: 
+1017 04:40:58306 :: NEW CURTAIN  ----------------------------------------------------------------------------1017 04:40:58306 :: 
+1017 04:40:58310 ::  __ProcessPreservedServerCommand1017 04:40:58310 ::  1017 04:40:58310 :: PRESERVE_DayMode light1017 04:40:58310 :: 
+1017 04:40:58322 :: ---------------------------------------------------------------------------- CLOSE LOADING WINDOW1017 04:40:58323 :: 
+1017 04:40:58324 :: ENABLE_NEW_EQUIPMENT_SYSTEM1017 04:40:58324 ::  1017 04:40:58324 :: 2011017 04:40:58324 ::  1017 04:40:58324 :: 01017 04:40:58325 ::  1017 04:40:58325 :: 01017 04:40:58325 :: 
+1017 04:40:58325 :: ENABLE_NEW_EQUIPMENT_SYSTEM1017 04:40:58325 ::  1017 04:40:58325 :: 2021017 04:40:58325 ::  1017 04:40:58325 :: 01017 04:40:58325 ::  1017 04:40:58325 :: 01017 04:40:58325 :: 
+1017 04:40:58325 :: ENABLE_NEW_EQUIPMENT_SYSTEM1017 04:40:58325 ::  1017 04:40:58325 :: 2031017 04:40:58325 ::  1017 04:40:58325 :: 01017 04:40:58325 ::  1017 04:40:58325 :: 180891017 04:40:58325 :: 
+1017 04:40:58327 :: ENABLE_NEW_EQUIPMENT_SYSTEM1017 04:40:58327 ::  1017 04:40:58327 :: 2011017 04:40:58327 ::  1017 04:40:58327 :: 01017 04:40:58327 ::  1017 04:40:58327 :: 01017 04:40:58327 :: 
+1017 04:40:58328 :: ENABLE_NEW_EQUIPMENT_SYSTEM1017 04:40:58328 ::  1017 04:40:58328 :: 2021017 04:40:58328 ::  1017 04:40:58328 :: 01017 04:40:58328 ::  1017 04:40:58328 :: 01017 04:40:58328 :: 
+1017 04:40:58328 :: ENABLE_NEW_EQUIPMENT_SYSTEM1017 04:40:58328 ::  1017 04:40:58328 :: 2031017 04:40:58328 ::  1017 04:40:58328 :: 01017 04:40:58328 ::  1017 04:40:58328 :: 180891017 04:40:58328 :: 
+1017 04:40:58330 :: ENABLE_NEW_EQUIPMENT_SYSTEM1017 04:40:58330 ::  1017 04:40:58330 :: 2011017 04:40:58330 ::  1017 04:40:58330 :: 01017 04:40:58330 ::  1017 04:40:58330 :: 01017 04:40:58330 :: 
+1017 04:40:58330 :: ENABLE_NEW_EQUIPMENT_SYSTEM1017 04:40:58330 ::  1017 04:40:58330 :: 2021017 04:40:58330 ::  1017 04:40:58330 :: 01017 04:40:58330 ::  1017 04:40:58330 :: 01017 04:40:58330 :: 
+1017 04:40:58331 :: ENABLE_NEW_EQUIPMENT_SYSTEM1017 04:40:58331 ::  1017 04:40:58331 :: 2031017 04:40:58331 ::  1017 04:40:58331 :: 01017 04:40:58331 ::  1017 04:40:58331 :: 180891017 04:40:58331 :: 
+1017 04:40:58337 :: ---------------------------------------------------------------------------- DELETE LOADING WINDOW1017 04:40:58337 :: 
+1017 04:40:58416 ::  <SkillInfo> 19 / 0, 2300
+1017 04:40:58660 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/monster/thief3/00.mss]
+1017 04:40:58661 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/monster/thief3/00_1.mss]
+1017 04:40:58661 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/monster/thief3/03.mss]
+1017 04:40:58662 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/monster/thief3/20.mss]
+1017 04:40:58662 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/monster/thief3/30.mss]
+1017 04:40:58663 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/monster/thief3/31.mss]
+1017 04:40:58663 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/monster/thief3/32.mss]
+1017 04:40:58664 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/monster/thief3/33.mss]
+1017 04:40:58664 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/monster/thief3/34.mss]
+1017 04:40:58684 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/monster/thiefboss3/00.mss]
+1017 04:40:58685 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/monster/thiefboss3/00_1.mss]
+1017 04:40:58685 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/monster/thiefboss3/00_2.mss]
+1017 04:40:58689 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/monster/thiefboss3/33.mss]
+1017 04:40:58691 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/monster/thiefboss3/36.mss]
+1017 04:40:58691 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/monster/thiefboss3/37.mss]
+1017 04:40:58691 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/monster/thiefboss3/37_1.mss]
+1017 04:40:58724 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/monster/gupae/00.mss]
+1017 04:40:58725 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/monster/gupae/00_1.mss]
+1017 04:40:58725 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/monster/gupae/00_2.mss]
+1017 04:40:58733 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/monster/gupae_20_2.mss]
+1017 04:40:58735 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/monster/gupae/33.mss]
+1017 04:40:58737 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/monster/gupae/36.mss]
+1017 04:40:58776 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/npc/peddler/die.mss]
+1017 04:40:58776 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/npc/peddler/run.mss]
+1017 04:40:58776 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/npc/peddler/wait.mss]
+1017 04:40:58777 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/npc/peddler/wait_1.mss]
+1017 04:40:58777 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/npc/peddler/walk.mss]
+1017 04:40:58791 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/monster/thief2/00.mss]
+1017 04:40:58792 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/monster/thief2/00_1.mss]
+1017 04:40:58792 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/monster/thief2/00_2.mss]
+1017 04:40:58798 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/monster/thief2/33.mss]
+1017 04:40:58799 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/monster/thief2/36.mss]
+1017 04:40:58841 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/monster/thiefboss1/00.mss]
+1017 04:40:58841 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/monster/thiefboss1/00_1.mss]
+1017 04:40:58842 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/monster/thiefboss1/00_2.mss]
+1017 04:40:58846 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/monster/thiefboss1/33.mss]
+1017 04:40:58847 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/monster/thiefboss1/36.mss]
+1017 04:40:58847 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/monster/thiefboss1/37.mss]
+1017 04:40:58892 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/background/metinstone_loop_1_purple.mss]
+1017 04:40:58895 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/background/metinstone_loop_2_purple.mss]
+1017 04:40:58900 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/background/metinstone_loop_3_purple.mss]
+1017 04:40:58905 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/background/metinstone_loop_4_purple.mss]
+1017 04:40:58908 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/background/metinstone_drop.mss]
+1017 04:40:58912 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/background/metinstone_crash.mss]
+1017 04:40:58913 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/monster/metinstone/metinstone_loop.mss]
+1017 04:40:58917 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/background/metinstone_splash.mss]
+1017 04:40:58919 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/background/metinstone_laser.mss]
+1017 04:40:58928 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/background/metinstone_blow.mss]
+1017 04:40:58946 :: BINARY_NEW_AddAffect1017 04:40:58946 ::  1017 04:40:58946 :: 2151017 04:40:58946 ::  1017 04:40:58946 :: 01017 04:40:58946 ::  1017 04:40:58946 :: 01017 04:40:58946 ::  1017 04:40:58946 :: 51017 04:40:58946 :: 
+1017 04:40:58946 :: 
+1017 04:40:58948 :: ## Network - Game Phase ##
+1017 04:40:58948 :: 
+1017 04:40:58953 :: ENABLE_NEW_EQUIPMENT_SYSTEM1017 04:40:58953 ::  1017 04:40:58953 :: 2011017 04:40:58953 ::  1017 04:40:58953 :: 01017 04:40:58953 ::  1017 04:40:58953 :: 01017 04:40:58953 :: 
+1017 04:40:58954 :: ENABLE_NEW_EQUIPMENT_SYSTEM1017 04:40:58954 ::  1017 04:40:58954 :: 2021017 04:40:58954 ::  1017 04:40:58954 :: 01017 04:40:58954 ::  1017 04:40:58954 :: 01017 04:40:58954 :: 
+1017 04:40:58954 :: ENABLE_NEW_EQUIPMENT_SYSTEM1017 04:40:58954 ::  1017 04:40:58954 :: 2031017 04:40:58954 ::  1017 04:40:58955 :: 01017 04:40:58955 ::  1017 04:40:58955 :: 180891017 04:40:58955 :: 
+1017 04:40:58957 :: ENABLE_NEW_EQUIPMENT_SYSTEM1017 04:40:58957 ::  1017 04:40:58957 :: 2011017 04:40:58957 ::  1017 04:40:58957 :: 01017 04:40:58957 ::  1017 04:40:58957 :: 01017 04:40:58957 :: 
+1017 04:40:58957 :: ENABLE_NEW_EQUIPMENT_SYSTEM1017 04:40:58957 ::  1017 04:40:58957 :: 2021017 04:40:58957 ::  1017 04:40:58957 :: 01017 04:40:58957 ::  1017 04:40:58957 :: 01017 04:40:58957 :: 
+1017 04:40:58958 :: ENABLE_NEW_EQUIPMENT_SYSTEM1017 04:40:58958 ::  1017 04:40:58958 :: 2031017 04:40:58958 ::  1017 04:40:58958 :: 01017 04:40:58958 ::  1017 04:40:58958 :: 180891017 04:40:58958 :: 
+1017 04:40:58984 :: NEW EVENT CURTAIN  ----------------------------------------------------------------------------1017 04:40:58984 :: 
+1017 04:40:59001 :: NEW EVENT CURTAIN  ----------------------------------------------------------------------------1017 04:40:59001 :: 
+1017 04:40:59002 :: ---------------------------------------------------------------------------- DELETE EVENT CURTAIN1017 04:40:59002 :: 
+1017 04:40:59017 :: NEW EVENT CURTAIN  ----------------------------------------------------------------------------1017 04:40:59017 :: 
+1017 04:40:59018 :: ---------------------------------------------------------------------------- DELETE EVENT CURTAIN1017 04:40:59018 :: 
+1017 04:40:59034 :: NEW EVENT CURTAIN  ----------------------------------------------------------------------------1017 04:40:59034 :: 
+1017 04:40:59035 :: ---------------------------------------------------------------------------- DELETE EVENT CURTAIN1017 04:40:59035 :: 
+1017 04:40:59050 :: NEW EVENT CURTAIN  ----------------------------------------------------------------------------1017 04:40:59050 :: 
+1017 04:40:59050 :: NEW EVENT CURTAIN  ----------------------------------------------------------------------------1017 04:40:59050 :: 
+1017 04:40:59051 :: ---------------------------------------------------------------------------- DELETE EVENT CURTAIN1017 04:40:59051 :: 
+1017 04:40:59066 :: NEW EVENT CURTAIN  ----------------------------------------------------------------------------1017 04:40:59066 :: 
+1017 04:40:59067 :: ---------------------------------------------------------------------------- DELETE EVENT CURTAIN1017 04:40:59067 :: 
+1017 04:40:59067 :: ---------------------------------------------------------------------------- DELETE EVENT CURTAIN1017 04:40:59067 :: 
+1017 04:40:59084 :: NEW EVENT CURTAIN  ----------------------------------------------------------------------------1017 04:40:59084 :: 
+1017 04:40:59084 :: NEW EVENT CURTAIN  ----------------------------------------------------------------------------1017 04:40:59084 :: 
+1017 04:40:59085 :: ---------------------------------------------------------------------------- DELETE EVENT CURTAIN1017 04:40:59085 :: 
+1017 04:40:59100 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/npc/lion_white/ice_smoke1.mss]
+1017 04:40:59101 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/npc/lion_white/wait.mss]
+1017 04:40:59103 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/npc/lion_white/attack1.mss]
+1017 04:40:59103 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/npc/lion_white/attack2.mss]
+1017 04:40:59103 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/npc/lion_white/attack3.mss]
+1017 04:40:59105 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/npc/lion_white/skill.mss]
+1017 04:40:59132 :: ---------------------------------------------------------------------------- DELETE EVENT CURTAIN1017 04:40:59132 :: 
+1017 04:40:59132 :: ---------------------------------------------------------------------------- DELETE EVENT CURTAIN1017 04:40:59132 :: 
+1017 04:40:59710 :: BINARY_NEW_AddAffect1017 04:40:59710 ::  1017 04:40:59710 :: 2211017 04:40:59710 ::  1017 04:40:59710 :: 1091017 04:40:59710 ::  1017 04:40:59710 :: 201141017 04:40:59710 ::  1017 04:40:59710 :: 967801017 04:40:59710 :: 
+1017 04:40:59726 :: BINARY_NEW_AddAffect1017 04:40:59726 ::  1017 04:40:59726 :: 5331017 04:40:59726 ::  1017 04:40:59726 :: 191017 04:40:59726 ::  1017 04:40:59726 :: 01017 04:40:59726 ::  1017 04:40:59726 :: 967801017 04:40:59726 :: 
+1017 04:40:59726 :: NEW EVENT CURTAIN  ----------------------------------------------------------------------------1017 04:40:59726 :: 
+1017 04:40:59743 :: NEW EVENT CURTAIN  ----------------------------------------------------------------------------1017 04:40:59743 :: 
+1017 04:40:59744 :: NEW EVENT CURTAIN  ----------------------------------------------------------------------------1017 04:40:59744 :: 
+1017 04:40:59745 :: ---------------------------------------------------------------------------- DELETE EVENT CURTAIN1017 04:40:59745 :: 
+1017 04:40:59759 :: NEW EVENT CURTAIN  ----------------------------------------------------------------------------1017 04:40:59759 :: 
+1017 04:40:59760 :: ---------------------------------------------------------------------------- DELETE EVENT CURTAIN1017 04:40:59760 :: 
+1017 04:40:59760 :: ---------------------------------------------------------------------------- DELETE EVENT CURTAIN1017 04:40:59760 :: 
+1017 04:40:59776 :: NEW EVENT CURTAIN  ----------------------------------------------------------------------------1017 04:40:59776 :: 
+1017 04:40:59776 :: Remove Affect 221 1091017 04:40:59776 :: 
+1017 04:40:59776 :: __RemoveAffect 221 ( No Affect )1017 04:40:59776 :: 
+1017 04:40:59777 :: ---------------------------------------------------------------------------- DELETE EVENT CURTAIN1017 04:40:59777 :: 
+1017 04:40:59794 :: ---------------------------------------------------------------------------- DELETE EVENT CURTAIN1017 04:40:59794 :: 
+1017 04:40:59892 :: ENABLE_NEW_EQUIPMENT_SYSTEM1017 04:40:59892 ::  1017 04:40:59892 :: 2011017 04:40:59892 ::  1017 04:40:59892 :: 01017 04:40:59892 ::  1017 04:40:59892 :: 01017 04:40:59892 :: 
+1017 04:40:59892 :: ENABLE_NEW_EQUIPMENT_SYSTEM1017 04:40:59892 ::  1017 04:40:59892 :: 2021017 04:40:59892 ::  1017 04:40:59893 :: 01017 04:40:59893 ::  1017 04:40:59893 :: 01017 04:40:59893 :: 
+1017 04:40:59893 :: ENABLE_NEW_EQUIPMENT_SYSTEM1017 04:40:59893 ::  1017 04:40:59893 :: 2031017 04:40:59893 ::  1017 04:40:59893 :: 01017 04:40:59893 ::  1017 04:40:59893 :: 180891017 04:40:59893 :: 
+1017 04:40:59895 :: ENABLE_NEW_EQUIPMENT_SYSTEM1017 04:40:59895 ::  1017 04:40:59895 :: 2011017 04:40:59895 ::  1017 04:40:59895 :: 01017 04:40:59895 ::  1017 04:40:59895 :: 01017 04:40:59895 :: 
+1017 04:40:59895 :: ENABLE_NEW_EQUIPMENT_SYSTEM1017 04:40:59895 ::  1017 04:40:59895 :: 2021017 04:40:59895 ::  1017 04:40:59895 :: 01017 04:40:59895 ::  1017 04:40:59895 :: 01017 04:40:59895 :: 
+1017 04:40:59896 :: ENABLE_NEW_EQUIPMENT_SYSTEM1017 04:40:59896 ::  1017 04:40:59896 :: 2031017 04:40:59896 ::  1017 04:40:59896 :: 01017 04:40:59896 ::  1017 04:40:59896 :: 180891017 04:40:59896 :: 
+1017 04:40:00749 :: PointWindow: !!debug
+1017 04:40:00799 :: PointWindow: game
+1017 04:40:00834 :: PointWindow: !!debug
+1017 04:40:00849 :: PointWindow: game
+1017 04:40:00899 :: BINARY_NEW_AddAffect1017 04:40:00899 ::  1017 04:40:00899 :: 5341017 04:40:00900 ::  1017 04:40:00900 :: 1191017 04:40:00900 ::  1017 04:40:00900 :: 41017 04:40:00900 ::  1017 04:40:00900 :: 18921547681017 04:40:00900 :: 
+1017 04:40:00900 :: Add affect 5341017 04:40:00900 :: 
+1017 04:40:00913 :: BINARY_NEW_AddAffect1017 04:40:00913 ::  1017 04:40:00913 :: 5351017 04:40:00913 ::  1017 04:40:00913 :: 1201017 04:40:00913 ::  1017 04:40:00913 :: 41017 04:40:00913 ::  1017 04:40:00913 :: 18921547681017 04:40:00913 :: 
+1017 04:40:00914 :: Add affect 5351017 04:40:00914 :: 
+1017 04:40:00931 :: BINARY_NEW_AddAffect1017 04:40:00931 ::  1017 04:40:00931 :: 5401017 04:40:00931 ::  1017 04:40:00931 :: 01017 04:40:00931 ::  1017 04:40:00931 :: 01017 04:40:00931 ::  1017 04:40:00931 :: 18920694891017 04:40:00931 :: 
+1017 04:40:00933 :: ENABLE_NEW_EQUIPMENT_SYSTEM1017 04:40:00933 ::  1017 04:40:00933 :: 2011017 04:40:00933 ::  1017 04:40:00933 :: 01017 04:40:00933 ::  1017 04:40:00933 :: 01017 04:40:00933 :: 
+1017 04:40:00933 :: ENABLE_NEW_EQUIPMENT_SYSTEM1017 04:40:00933 ::  1017 04:40:00933 :: 2021017 04:40:00933 ::  1017 04:40:00934 :: 01017 04:40:00934 ::  1017 04:40:00934 :: 01017 04:40:00934 :: 
+1017 04:40:00934 :: ENABLE_NEW_EQUIPMENT_SYSTEM1017 04:40:00934 ::  1017 04:40:00934 :: 2031017 04:40:00934 ::  1017 04:40:00935 :: 01017 04:40:00935 ::  1017 04:40:00935 :: 180891017 04:40:00935 :: 
+1017 04:40:00949 :: ENABLE_NEW_EQUIPMENT_SYSTEM1017 04:40:00949 ::  1017 04:40:00950 :: 2011017 04:40:00950 ::  1017 04:40:00950 :: 01017 04:40:00950 ::  1017 04:40:00950 :: 01017 04:40:00950 :: 
+1017 04:40:00950 :: ENABLE_NEW_EQUIPMENT_SYSTEM1017 04:40:00950 ::  1017 04:40:00950 :: 2021017 04:40:00950 ::  1017 04:40:00950 :: 01017 04:40:00950 ::  1017 04:40:00951 :: 01017 04:40:00951 :: 
+1017 04:40:00951 :: ENABLE_NEW_EQUIPMENT_SYSTEM1017 04:40:00951 ::  1017 04:40:00951 :: 2031017 04:40:00951 ::  1017 04:40:00951 :: 01017 04:40:00951 ::  1017 04:40:00951 :: 180891017 04:40:00951 :: 
+1017 04:40:01146 :: ENABLE_NEW_EQUIPMENT_SYSTEM1017 04:40:01146 ::  1017 04:40:01146 :: 2011017 04:40:01146 ::  1017 04:40:01146 :: 01017 04:40:01146 ::  1017 04:40:01146 :: 01017 04:40:01146 :: 
+1017 04:40:01146 :: ENABLE_NEW_EQUIPMENT_SYSTEM1017 04:40:01146 ::  1017 04:40:01146 :: 2021017 04:40:01146 ::  1017 04:40:01147 :: 01017 04:40:01147 ::  1017 04:40:01147 :: 01017 04:40:01147 :: 
+1017 04:40:01147 :: ENABLE_NEW_EQUIPMENT_SYSTEM1017 04:40:01147 ::  1017 04:40:01147 :: 2031017 04:40:01147 ::  1017 04:40:01147 :: 01017 04:40:01147 ::  1017 04:40:01147 :: 180891017 04:40:01147 :: 
+1017 04:40:01149 :: ENABLE_NEW_EQUIPMENT_SYSTEM1017 04:40:01149 ::  1017 04:40:01149 :: 2011017 04:40:01149 ::  1017 04:40:01149 :: 01017 04:40:01149 ::  1017 04:40:01149 :: 01017 04:40:01149 :: 
+1017 04:40:01149 :: ENABLE_NEW_EQUIPMENT_SYSTEM1017 04:40:01150 ::  1017 04:40:01150 :: 2021017 04:40:01150 ::  1017 04:40:01150 :: 01017 04:40:01150 ::  1017 04:40:01150 :: 01017 04:40:01150 :: 
+1017 04:40:01150 :: ENABLE_NEW_EQUIPMENT_SYSTEM1017 04:40:01150 ::  1017 04:40:01150 :: 2031017 04:40:01150 ::  1017 04:40:01150 :: 01017 04:40:01150 ::  1017 04:40:01150 :: 180891017 04:40:01150 :: 
+1017 04:40:01295 :: PointWindow: !!debug
+1017 04:40:01937 :: PointWindow: game
+1017 04:40:03372 :: Remove Affect 215 01017 04:40:03372 :: 
+1017 04:40:03372 :: __RemoveAffect 215 ( No Affect )1017 04:40:03372 :: 
+1017 04:40:03373 :: __RemoveAffect 27 ( No Affect )1017 04:40:03373 :: 
+1017 04:40:03374 :: ENABLE_NEW_EQUIPMENT_SYSTEM1017 04:40:03374 ::  1017 04:40:03374 :: 2011017 04:40:03374 ::  1017 04:40:03374 :: 01017 04:40:03374 ::  1017 04:40:03375 :: 01017 04:40:03375 :: 
+1017 04:40:03375 :: ENABLE_NEW_EQUIPMENT_SYSTEM1017 04:40:03375 ::  1017 04:40:03375 :: 2021017 04:40:03375 ::  1017 04:40:03375 :: 01017 04:40:03375 ::  1017 04:40:03375 :: 01017 04:40:03375 :: 
+1017 04:40:03375 :: ENABLE_NEW_EQUIPMENT_SYSTEM1017 04:40:03375 ::  1017 04:40:03375 :: 2031017 04:40:03375 ::  1017 04:40:03375 :: 01017 04:40:03375 ::  1017 04:40:03376 :: 180891017 04:40:03376 :: 
+1017 04:40:03377 :: ENABLE_NEW_EQUIPMENT_SYSTEM1017 04:40:03377 ::  1017 04:40:03377 :: 2011017 04:40:03377 ::  1017 04:40:03377 :: 01017 04:40:03377 ::  1017 04:40:03377 :: 01017 04:40:03377 :: 
+1017 04:40:03378 :: ENABLE_NEW_EQUIPMENT_SYSTEM1017 04:40:03378 ::  1017 04:40:03378 :: 2021017 04:40:03378 ::  1017 04:40:03378 :: 01017 04:40:03378 ::  1017 04:40:03378 :: 01017 04:40:03378 :: 
+1017 04:40:03378 :: ENABLE_NEW_EQUIPMENT_SYSTEM1017 04:40:03378 ::  1017 04:40:03378 :: 2031017 04:40:03378 ::  1017 04:40:03378 :: 01017 04:40:03378 ::  1017 04:40:03378 :: 180891017 04:40:03378 :: 
+1017 04:40:08141 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/npc/jinno_patrol_spear/00.mss]
+1017 04:40:08141 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/npc/jinno_patrol_spear/00_1.mss]
+1017 04:40:08142 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/npc/jinno_patrol_spear/02.mss]
+1017 04:40:08142 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/npc/jinno_patrol_spear/03.mss]
+1017 04:40:08143 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/npc/jinno_patrol_spear/20.mss]
+1017 04:40:08144 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/npc/jinno_patrol_spear/20_1.mss]
+1017 04:40:08144 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/npc/jinno_patrol_spear/30.mss]
+1017 04:40:08144 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/npc/jinno_patrol_spear/30_1.mss]
+1017 04:40:08145 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/npc/jinno_patrol_spear/31.mss]
+1017 04:40:08145 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/npc/jinno_patrol_spear/32.mss]
+1017 04:40:08146 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/npc/jinno_patrol_spear/33.mss]
+1017 04:40:08146 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/npc/jinno_patrol_spear/34.mss]
+1017 04:40:08146 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/npc/jinno_patrol_spear/34_1.mss]
+1017 04:40:08147 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/npc/jinno_patrol_spear/35.mss]
+1017 04:40:08147 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/npc/jinno_patrol_spear/36.mss]
+1017 04:40:08148 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/npc/jinno_patrol_spear/37.mss]
+1017 04:40:08176 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/monster/barbarian_soldier/00.mss]
+1017 04:40:08176 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/monster/barbarian_soldier/00_1.mss]
+1017 04:40:08182 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/monster/barbarian_soldier/33.mss]
+1017 04:40:08183 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/monster/barbarian_soldier/36.mss]
+1017 04:40:08770 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/npc/blacksmith/die.mss]
+1017 04:40:08771 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/npc/blacksmith/run.mss]
+1017 04:40:08771 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/npc/blacksmith/wait.mss]
+1017 04:40:08771 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/npc/blacksmith/wait_2.mss]
+1017 04:40:10271 :: PointWindow: exit_button
+1017 04:40:11392 :: PointWindow: game
+1017 04:40:14477 :: FadeOutMusic: BGM/M2BG.mp3 - ERROR NOT EXIST
+1017 04:40:14486 :: ===================================================== DESTROYED TARGET BOARD1017 04:40:14486 :: 
+1017 04:40:14486 :: Is Opening Belt Inven?? 1017 04:40:14486 ::  1017 04:40:14487 :: 11017 04:40:14487 :: 
+1017 04:40:14490 :: ---------------------------------------------------------------------------- DESTROY EXCHANGE1017 04:40:14490 :: 
+1017 04:40:14493 ::  ==================================== DESTROIED GUILD WINDOW1017 04:40:14493 :: 
+1017 04:40:14494 ::  =============================== DESTROIED PartyWindow1017 04:40:14494 :: 
+1017 04:40:14495 :: ---------------------------------------------------------------------------- CLOSE GAME WINDOW1017 04:40:14495 :: 
+1017 04:40:14495 :: ---------------------------------------------------------------------------- DELETE CURTAIN1017 04:40:14495 :: 
+1017 04:40:14496 :: ---------------------------------------------------------------------------- DELETE POPUP DIALOG 1017 04:40:14496 :: 
+1017 04:40:14496 :: ---------------------------------------------------------------------------- DELETE CURTAIN1017 04:40:14496 :: 
+1017 04:40:14496 :: ---------------------------------------------------------------------------- DELETE MAIN STREAM 1017 04:40:14496 :: 
+1017 04:40:14514 :: SYSERR: granny_shared_vbs:
+1017 04:40:14514 :: SYSERR: 	0: 40
+1017 04:40:14515 :: SYSERR: 	1: 20
+1017 04:40:14515 :: SYSERR: 	2: 20
+1017 04:40:14515 :: SYSERR: 	3: 40
+1017 04:40:14515 :: SYSERR: 	4: 1
+1017 04:40:14515 :: SYSERR: 	5: 20
+1017 04:40:14515 :: SYSERR: 	6: 1
+1017 04:40:14515 :: SYSERR: 	7: 0
+1017 04:40:14516 :: SYSERR: 	8: 1
+1017 04:40:14521 :: CResourceManager::__DestroyDeletingResourceMap 886
+1017 04:40:14551 :: CResourceManager::__DestroyResourceMap 2450
+1017 04:40:14625 :: CResourceManager::__DestroyResourceMap 0
+1017 04:40:14627 :: CPythonBackground Clear
+1017 04:40:14638 :: PythonIME Clear
+1017 04:40:14639 :: PythonNetworkMainStream Clear
+1017 04:40:14640 :: Python Graphic Clear
