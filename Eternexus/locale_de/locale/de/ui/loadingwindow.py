@@ -60,8 +60,14 @@ window = {
 					"image" : uiScriptLocale.LOCALE_UISCRIPT_PATH + "loading/gauge_full.dds",
 				},
                 {
-					"name" : "LoadingInfo_Text", "type" : "text", "x" : 190, "y" : -20, "fontname" : "Tahoma:19", "text" : "",  "vertical_align" : "center",
-				},
+					"name" : "LoadingInfo_Text",
+					"type" : "text",
+                    "x" : 150,  # Adjust text_width as needed
+					"y" : -12,  # Adjust text_height as needed
+					"fontname" : "Tahoma:16",
+					"text" : "",
+					"vertical_align" : "center",
+				}
 			),
 		},
 	),
