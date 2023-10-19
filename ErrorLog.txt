@@ -1,0 +1,33 @@
+Module Name: E:\Metin2\Sparta Metin2\Client\Metin2Client\Metin2Distribute.exe
+Time Stamp: 0x65309ab1 - (null)
+
+Exception Type: 0xc0000005
+
+eax: 0x00000000	ebx: 0x078ccd08
+ecx: 0x0470cbe8	edx: 0x1e200cd0
+esi: 0x1e0862e0	edi: 0x0470cbe8
+ebp: 0x0019f97c	esp: 0x0019f974
+
+0x1e07a7a7	E:\Metin2\Sparta Metin2\Client\Metin2Client\python27.dll
+0x1e0ea04c	E:\Metin2\Sparta Metin2\Client\Metin2Client\python27.dll
+0x1e07a782	E:\Metin2\Sparta Metin2\Client\Metin2Client\python27.dll
+0x00560b43	E:\Metin2\Sparta Metin2\Client\Metin2Client\Metin2Distribute.exe
+0x00560717	E:\Metin2\Sparta Metin2\Client\Metin2Client\Metin2Distribute.exe
+0x0051160e	E:\Metin2\Sparta Metin2\Client\Metin2Client\Metin2Distribute.exe
+0x004e5e77	E:\Metin2\Sparta Metin2\Client\Metin2Client\Metin2Distribute.exe
+0x777e6721	C:\Windows\System32\MSCTF.dll
+0x777e4629	C:\Windows\System32\MSCTF.dll
+0x777e44ca	C:\Windows\System32\MSCTF.dll
+0x777fde7c	C:\Windows\System32\MSCTF.dll
+0x778006a0	C:\Windows\System32\MSCTF.dll
+0x764aeccb	C:\Windows\System32\USER32.dll
+0x764ab479	C:\Windows\System32\USER32.dll
+0x764ab356	C:\Windows\System32\USER32.dll
+0x77b7508d	C:\Windows\SYSTEM32\ntdll.dll
+0x004af6a5	E:\Metin2\Sparta Metin2\Client\Metin2Client\Metin2Distribute.exe
+0x004afaad	E:\Metin2\Sparta Metin2\Client\Metin2Client\Metin2Distribute.exe
+0x0056b914	E:\Metin2\Sparta Metin2\Client\Metin2Client\Metin2Distribute.exe
+0x7759fcc9	C:\Windows\System32\KERNEL32.DLL
+0x77b67c6e	C:\Windows\SYSTEM32\ntdll.dll
+0x77b67c3e	C:\Windows\SYSTEM32\ntdll.dll
+
